@@ -1,0 +1,14 @@
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+SUPABASE_URL = os.getenv("SUPABASE_URL")
+SUPABASE_KEY = os.getenv("SUPABASE_KEY")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+
+if not SUPABASE_URL or not SUPABASE_KEY:
+    print("Warning: Supabase credentials not found in environment.")
+
+if not GEMINI_API_KEY:
+    print("Warning: Gemini API Key not found in environment.")
