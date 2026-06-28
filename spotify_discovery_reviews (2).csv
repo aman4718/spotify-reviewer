@@ -1,0 +1,647 @@
+platform,source,sentiment,category,review_text,rating,date
+Reddit,r/spotify,negative,discovery_problem,Spotify keeps recommending the same artists over and over. I've been trying to get out of my indie bubble for months but it just won't let me.,2,2025-03-12
+Reddit,r/spotify,negative,discovery_problem,Discover Weekly used to be the reason I loved Spotify. Now it's just recycling songs I've already heard. What happened to the algorithm?,1,2025-01-08
+Reddit,r/spotify,negative,discovery_problem,I find literally all my new music on Instagram Reels and then have to search for it on Spotify. The discovery feature is basically useless for me.,2,2025-04-20
+Reddit,r/spotify,negative,discovery_problem,It's been 3 years and Spotify still recommends me the same 50 artists. I have 3000 liked songs but it refuses to go outside my comfort zone.,1,2024-11-15
+Reddit,r/spotify,negative,discovery_problem,I played one Taylor Swift song at a party and now my recommendations are ruined for weeks. The algorithm has no memory or context.,2,2025-02-28
+Reddit,r/spotify,negative,discovery_problem,Spotify's algorithm used to be much better. I suspect real human curators were involved before. Now it's clearly all automated and terrible.,1,2025-05-10
+Reddit,r/spotify,negative,discovery_problem,"Any EDM song I start a radio for leads to TikTok phonk and no matter how many times I skip, the same songs keep appearing.",2,2024-12-03
+Reddit,r/spotify,negative,discovery_problem,I've been trying to discover jazz for months. Every playlist Spotify makes me is the same 20 jazz classics. There's a whole world out there.,2,2025-01-22
+Reddit,r/spotify,negative,repetitive_listening,I end up playing the same playlist every single day because everything Spotify suggests feels random and wrong. Comfort > risk.,3,2025-03-05
+Reddit,r/spotify,negative,repetitive_listening,My Liked Songs has 2000 tracks but I shuffle the same 30 songs. Spotify's UI makes it too hard to actually dig into your own library.,2,2024-10-18
+Reddit,r/spotify,negative,mood_mismatch,"Discover Weekly doesn't know what mood I'm in. At 2am I want something atmospheric, not the upbeat pop it keeps throwing at me.",2,2025-04-01
+Reddit,r/spotify,negative,mood_mismatch,I had a specific mood — late night study vibes — and Spotify gave me workout music. The context awareness is basically zero.,2,2025-02-14
+Reddit,r/spotify,negative,mood_mismatch,Recommended songs for my chill playlist are 95% upbeat kpop. A genre I like but completely wrong for that playlist's vibe.,1,2025-05-22
+Reddit,r/spotify,negative,algorithm_bubble,I believe my habit of digging deep cuts has tainted my recommendations. Now any popular song radio is filled with obscure 1-minute tracks.,2,2024-09-30
+Reddit,r/spotify,negative,algorithm_bubble,The algorithm puts you in a bubble and actively fights you when you try to get out. It's like it punishes curiosity.,1,2025-03-18
+Reddit,r/spotify,negative,algorithm_bubble,Played Christmas music in December. Still getting Christmas recommendations in March. The algorithm has no seasonal awareness.,2,2025-03-25
+Reddit,r/spotify,negative,algorithm_bubble,I shared my account with my sister for one week. Now my taste profile is completely destroyed. There's no way to reset.,1,2024-11-28
+Spotify Community,community.spotify.com,negative,algorithm_issue,The suggested songs for my playlist filled with j-rock and ballads are 95% upbeat kpop songs. The algorithm has no logic.,1,2025-01-15
+Spotify Community,community.spotify.com,negative,repetitive_recommendations,My daily mixes are filled with songs I've already saved. I don't need my liked songs regurgitated — I need new music.,2,2025-02-09
+Spotify Community,community.spotify.com,negative,algorithm_issue,The recommendation system prioritizes songs already in my playlist instead of suggesting similar new tracks. This is backwards.,2,2024-12-20
+Spotify Community,community.spotify.com,negative,discovery_problem,Last Friday my Release Radar didn't even update. I follow 47 artists and it showed me nothing new. What's happening?,1,2025-04-12
+Spotify Community,community.spotify.com,negative,algorithm_issue,"Home page now shows loads of podcasts with no option to filter them out. I use Spotify for music, not podcasts.",3,2025-03-30
+Spotify Community,community.spotify.com,negative,discovery_problem,I used to go on Spotify radio rabbit holes finding new music. It was so good at showing similar songs. Now it's completely broken.,1,2025-01-05
+Spotify Community,community.spotify.com,negative,mood_mismatch,Not interested button doesn't work. I've clicked it 6 times on the same horror podcast recommendation and it keeps appearing.,2,2024-10-22
+Spotify Community,community.spotify.com,negative,discovery_problem,I wish there was a way to filter out songs less than 2 minutes long from recommendations. So much noise in my discovery.,3,2025-02-18
+Google Play,Play Store,negative,discovery_problem,Used to discover amazing music through Spotify. Now the algo just shows me the same 10 artists. Switching to Apple Music soon.,2,2025-05-01
+Google Play,Play Store,negative,repetitive_listening,I'm paying for Premium but my Discover Weekly is the same songs every week. It's embarrassing how bad the recommendations have gotten.,1,2025-04-15
+Google Play,Play Store,negative,mood_mismatch,2 stars. The app doesn't understand that I want different music at different times. Working music != gym music != late night music.,2,2025-03-22
+Google Play,Play Store,negative,algorithm_bubble,"Algorithm is stuck. I've been listening to the same genre loop for 8 months. No matter what I try, it won't show me anything new.",1,2025-02-05
+Google Play,Play Store,negative,discovery_problem,Finding new music on Spotify feels like work now. I have to manually search for everything. The discovery is completely passive and wrong.,2,2025-01-18
+Google Play,Play Store,positive,discovery_success,Discover Weekly introduced me to 5 artists this month that I absolutely love. This is why I pay for Premium. Keep it up!,5,2025-04-28
+Google Play,Play Store,positive,discovery_success,The Daily Mix feature is genuinely great. It mixes my favorites with new stuff perfectly. Discovery feels natural not forced.,5,2025-03-10
+Google Play,Play Store,neutral,feature_request,Good app overall but wish there was a mood filter for recommendations. Like tell it you're sad or energetic and it adjusts.,3,2025-02-22
+Google Play,Play Store,negative,discovery_problem,Found all my recent music on Instagram Reels. Spotify hasn't shown me anything new in months. 3 stars only because the player is good.,3,2025-05-08
+Google Play,Play Store,negative,algorithm_bubble,The algorithm is too safe. It never takes risks. I want to be surprised — instead I get the same comfortable recommendations forever.,2,2025-04-02
+Google Play,Play Store,negative,repetitive_listening,Premium user for 4 years. Discovery used to be magical. Now I listen to the same 3 playlists on repeat because nothing new feels right.,2,2024-12-15
+App Store,iOS App Store,negative,discovery_problem,Spotify used to be the best at finding new music. Now it's just a pretty player. Discovery is completely broken.,2,2025-05-12
+App Store,iOS App Store,negative,mood_mismatch,I want music that matches how I feel RIGHT NOW. Not what I listened to last week. Spotify doesn't understand real-time mood.,1,2025-04-08
+App Store,iOS App Store,negative,algorithm_bubble,Been Premium for 5 years. The discovery peaked in 2019. Now I'm trapped in a genre bubble I can't escape no matter what I do.,2,2025-03-14
+App Store,iOS App Store,positive,discovery_success,The AI DJ feature actually surprised me this week with 3 songs I'd never heard that I now have on repeat. More of this please!,4,2025-02-25
+App Store,iOS App Store,negative,discovery_problem,I hear songs on YouTube Shorts and by the time I search on Spotify I've forgotten the lyrics. Need a hum-to-search feature badly.,3,2025-01-30
+App Store,iOS App Store,negative,repetitive_listening,My partner says I listen to the same songs every morning. She's right. Not because I want to — because Spotify makes discovery hard.,2,2025-05-03
+App Store,iOS App Store,neutral,feature_request,Would love a Discovery Mode where I explicitly tell Spotify I want something completely new. Right now there's no control.,3,2025-04-18
+App Store,iOS App Store,negative,algorithm_issue,Played one sad song during a breakup. Spotify kept recommending sad music for 3 months straight. There's no way to reset the context.,1,2025-02-12
+App Store,iOS App Store,negative,discovery_problem,"I've tried everything — new playlists, different genres, explicit skip feedback. The algorithm just doesn't respond to my signals.",2,2025-03-28
+App Store,iOS App Store,positive,discovery_success,Loved Discover Weekly this week — it somehow knew I was going through a indie rock phase before I did. Genuinely magical when it works.,5,2025-01-12
+Google Play,Play Store,negative,mood_mismatch,Spotify's recommendations have gotten worse. I keep hearing the same hip-hop songs no matter what I do.,2,2024-10-01
+Reddit,r/ListenToThis,negative,algorithm_bubble,Spotify's recommendations have gotten worse. I keep hearing the same reggae songs no matter what I do.,2,2024-11-10
+Reddit,r/spotify,positive,algorithm_issue,Spotify introduced me to my new favorite Latin artist this week. This is why I pay for Premium.,4,2024-07-17
+App Store,iOS App Store,negative,feature_request,Spotify's recommendations have gotten worse. I keep hearing the same folk songs no matter what I do.,2,2024-10-29
+App Store,iOS App Store,negative,repetitive_listening,Spotify's recommendations have gotten worse. I keep hearing the same classical songs no matter what I do.,2,2024-11-20
+Reddit,r/ListenToThis,positive,discovery_success,The AI DJ feature is brilliant for folk — it actually surprises me sometimes.,5,2024-07-22
+Google Play,Play Store,negative,repetitive_listening,The rock algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2025-01-28
+Reddit,r/spotify,negative,algorithm_bubble,Spotify's recommendations have gotten worse. I keep hearing the same reggae songs no matter what I do.,2,2025-02-03
+Google Play,Play Store,negative,discovery_problem,The rock algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2024-12-28
+App Store,iOS App Store,negative,algorithm_issue,My classical recommendations never change. Stuck in the same bubble forever.,1,2024-12-19
+App Store,iOS App Store,neutral,discovery_success,"Mixed experience with classical discovery. Sometimes great, sometimes completely off.",3,2025-04-16
+App Store,iOS App Store,negative,discovery_success,Discover Weekly used to be amazing for rock. Now it's just the same artists I already know.,2,2025-04-22
+Reddit,r/ListenToThis,negative,mood_mismatch,My Latin recommendations never change. Stuck in the same bubble forever.,2,2025-05-08
+Reddit,r/spotify,negative,discovery_success,The reggae radio feature just plays the same 20 songs on loop. Completely pointless.,2,2024-11-04
+Google Play,Play Store,negative,algorithm_bubble,My hip-hop recommendations never change. Stuck in the same bubble forever.,1,2024-08-13
+Reddit,r/spotify,negative,discovery_success,My rock recommendations never change. Stuck in the same bubble forever.,1,2025-04-07
+App Store,iOS App Store,negative,algorithm_issue,I want to explore new R&B genres but Spotify keeps pulling me back to the same stuff.,2,2024-07-14
+Reddit,r/spotify,neutral,algorithm_issue,Good app but K-pop discovery could be much better. Some frustrations but still useful.,3,2024-07-19
+Google Play,Play Store,negative,feature_request,Been Premium for R&B years and discovery quality keeps declining. Very disappointed.,1,2024-12-15
+App Store,iOS App Store,negative,repetitive_listening,I want to explore new electronic genres but Spotify keeps pulling me back to the same stuff.,2,2024-10-23
+Reddit,r/spotify,neutral,mood_mismatch,Decent for indie but competitors are catching up on the discovery front.,3,2025-03-25
+App Store,iOS App Store,positive,algorithm_issue,Discover Weekly nailed it this week with amazing R&B music I'd never heard before.,4,2024-07-13
+App Store,iOS App Store,positive,algorithm_issue,The AI DJ feature is brilliant for indie — it actually surprises me sometimes.,5,2025-01-09
+Reddit,r/ListenToThis,negative,feature_request,Can't discover new hip-hop music on Spotify anymore. Everything feels recycled.,2,2025-02-05
+Google Play,Play Store,positive,mood_mismatch,Discover Weekly nailed it this week with amazing indie music I'd never heard before.,5,2025-01-17
+App Store,iOS App Store,neutral,feature_request,Decent for Bollywood but competitors are catching up on the discovery front.,3,2024-12-13
+App Store,iOS App Store,negative,discovery_success,The R&B algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2024-10-18
+App Store,iOS App Store,negative,discovery_problem,I find all my new hip-hop music on Reels now. Spotify discovery is useless for my taste.,2,2025-04-10
+Reddit,r/spotify,positive,algorithm_issue,Spotify introduced me to my new favorite Latin artist this week. This is why I pay for Premium.,4,2025-05-17
+App Store,iOS App Store,negative,feature_request,Spotify's recommendations have gotten worse. I keep hearing the same reggae songs no matter what I do.,2,2024-06-16
+Google Play,Play Store,negative,algorithm_bubble,The Bollywood algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2024-07-29
+Spotify Community,community.spotify.com,negative,feature_request,Spotify's recommendations have gotten worse. I keep hearing the same classical songs no matter what I do.,2,2024-09-25
+Reddit,r/spotify,negative,discovery_success,Spotify's recommendations have gotten worse. I keep hearing the same jazz songs no matter what I do.,2,2024-12-16
+Reddit,r/spotify,positive,feature_request,The AI DJ feature is brilliant for jazz — it actually surprises me sometimes.,4,2024-09-01
+Google Play,Play Store,negative,feature_request,I want to explore new pop genres but Spotify keeps pulling me back to the same stuff.,2,2024-10-07
+Spotify Community,community.spotify.com,positive,feature_request,The ambient playlist recommendations have been spot on lately. Really impressed.,5,2025-02-07
+Spotify Community,community.spotify.com,negative,algorithm_issue,I find all my new R&B music on Reels now. Spotify discovery is useless for my taste.,2,2024-10-14
+Google Play,Play Store,negative,algorithm_bubble,The reggae algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2024-08-17
+Reddit,r/spotify,negative,feature_request,The classical radio feature just plays the same 20 songs on loop. Completely pointless.,2,2024-09-02
+Reddit,r/ListenToThis,negative,feature_request,I find all my new jazz music on Reels now. Spotify discovery is useless for my taste.,2,2024-10-15
+Google Play,Play Store,negative,algorithm_issue,I find all my new jazz music on Reels now. Spotify discovery is useless for my taste.,2,2025-05-22
+Reddit,r/ListenToThis,negative,repetitive_listening,I want to explore new Latin genres but Spotify keeps pulling me back to the same stuff.,2,2025-05-24
+Reddit,r/spotify,negative,mood_mismatch,Discover Weekly used to be amazing for reggae. Now it's just the same artists I already know.,1,2025-01-30
+Reddit,r/spotify,positive,discovery_problem,The AI DJ feature is brilliant for folk — it actually surprises me sometimes.,4,2025-01-18
+Reddit,r/spotify,negative,repetitive_listening,Spotify's recommendations have gotten worse. I keep hearing the same ambient songs no matter what I do.,2,2024-06-29
+Reddit,r/ListenToThis,negative,algorithm_bubble,Can't discover new folk music on Spotify anymore. Everything feels recycled.,2,2024-12-25
+App Store,iOS App Store,negative,discovery_problem,I want to explore new K-pop genres but Spotify keeps pulling me back to the same stuff.,1,2025-02-23
+Reddit,r/spotify,negative,mood_mismatch,I find all my new R&B music on Reels now. Spotify discovery is useless for my taste.,2,2025-03-26
+Spotify Community,community.spotify.com,negative,discovery_success,The K-pop radio feature just plays the same 20 songs on loop. Completely pointless.,2,2025-05-06
+Spotify Community,community.spotify.com,neutral,algorithm_bubble,"Mixed experience with classical discovery. Sometimes great, sometimes completely off.",3,2024-12-31
+App Store,iOS App Store,negative,repetitive_listening,The pop algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2025-05-08
+Reddit,r/spotify,negative,discovery_success,Discover Weekly used to be amazing for pop. Now it's just the same artists I already know.,2,2025-05-08
+Reddit,r/spotify,negative,algorithm_bubble,I want to explore new indie genres but Spotify keeps pulling me back to the same stuff.,2,2024-06-16
+Google Play,Play Store,negative,feature_request,Can't discover new Latin music on Spotify anymore. Everything feels recycled.,1,2024-08-29
+Google Play,Play Store,negative,mood_mismatch,The indie algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2025-01-27
+Reddit,r/spotify,negative,repetitive_listening,Been Premium for electronic years and discovery quality keeps declining. Very disappointed.,2,2024-09-20
+App Store,iOS App Store,neutral,repetitive_listening,"Mixed experience with electronic discovery. Sometimes great, sometimes completely off.",3,2024-07-01
+App Store,iOS App Store,negative,algorithm_issue,Can't discover new Latin music on Spotify anymore. Everything feels recycled.,2,2025-04-12
+App Store,iOS App Store,neutral,algorithm_issue,Okay for classical music but I wish there was more control over recommendations.,3,2024-06-22
+Spotify Community,community.spotify.com,neutral,discovery_problem,"Mixed experience with indie discovery. Sometimes great, sometimes completely off.",3,2024-12-15
+App Store,iOS App Store,negative,algorithm_bubble,My electronic recommendations never change. Stuck in the same bubble forever.,1,2025-01-27
+Reddit,r/ListenToThis,positive,discovery_problem,The Latin playlist recommendations have been spot on lately. Really impressed.,4,2024-07-25
+Google Play,Play Store,neutral,mood_mismatch,Decent for K-pop but competitors are catching up on the discovery front.,3,2024-10-14
+Reddit,r/spotify,positive,algorithm_bubble,Daily Mix is perfect for my K-pop taste. Great mix of familiar and new.,4,2024-12-25
+App Store,iOS App Store,neutral,discovery_success,Good app but indie discovery could be much better. Some frustrations but still useful.,3,2024-07-19
+Spotify Community,community.spotify.com,negative,discovery_problem,Can't discover new Latin music on Spotify anymore. Everything feels recycled.,1,2025-01-02
+Google Play,Play Store,negative,algorithm_bubble,The Bollywood algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2025-05-25
+App Store,iOS App Store,negative,algorithm_issue,The folk radio feature just plays the same 20 songs on loop. Completely pointless.,1,2024-09-05
+App Store,iOS App Store,negative,algorithm_bubble,Spotify's recommendations have gotten worse. I keep hearing the same Latin songs no matter what I do.,1,2024-08-03
+Reddit,r/spotify,neutral,algorithm_bubble,Okay for pop music but I wish there was more control over recommendations.,3,2025-04-30
+Google Play,Play Store,negative,discovery_problem,Spotify's recommendations have gotten worse. I keep hearing the same ambient songs no matter what I do.,1,2025-04-06
+Google Play,Play Store,negative,feature_request,My reggae recommendations never change. Stuck in the same bubble forever.,2,2024-12-07
+App Store,iOS App Store,positive,mood_mismatch,The pop playlist recommendations have been spot on lately. Really impressed.,5,2025-01-24
+App Store,iOS App Store,negative,algorithm_bubble,The K-pop radio feature just plays the same 20 songs on loop. Completely pointless.,2,2024-07-17
+Spotify Community,community.spotify.com,positive,repetitive_listening,The AI DJ feature is brilliant for folk — it actually surprises me sometimes.,5,2025-01-05
+App Store,iOS App Store,neutral,discovery_success,Okay for classical music but I wish there was more control over recommendations.,3,2024-10-03
+Spotify Community,community.spotify.com,negative,algorithm_bubble,The rock radio feature just plays the same 20 songs on loop. Completely pointless.,1,2024-10-15
+Reddit,r/ListenToThis,negative,algorithm_bubble,Spotify doesn't understand my electronic mood at all. Wrong songs at the wrong time.,2,2025-03-31
+Reddit,r/spotify,negative,mood_mismatch,Can't discover new Latin music on Spotify anymore. Everything feels recycled.,1,2025-01-08
+Spotify Community,community.spotify.com,positive,discovery_problem,Spotify introduced me to my new favorite ambient artist this week. This is why I pay for Premium.,4,2024-08-05
+Google Play,Play Store,negative,repetitive_listening,Can't discover new ambient music on Spotify anymore. Everything feels recycled.,1,2025-04-29
+App Store,iOS App Store,negative,mood_mismatch,I find all my new pop music on Reels now. Spotify discovery is useless for my taste.,2,2024-07-26
+Reddit,r/ListenToThis,negative,repetitive_listening,I want to explore new K-pop genres but Spotify keeps pulling me back to the same stuff.,2,2024-12-29
+App Store,iOS App Store,positive,algorithm_bubble,The pop playlist recommendations have been spot on lately. Really impressed.,4,2025-03-17
+Google Play,Play Store,negative,repetitive_listening,My Bollywood recommendations never change. Stuck in the same bubble forever.,2,2024-11-18
+App Store,iOS App Store,positive,discovery_problem,The AI DJ feature is brilliant for R&B — it actually surprises me sometimes.,4,2024-12-29
+Reddit,r/spotify,negative,mood_mismatch,Discover Weekly used to be amazing for rock. Now it's just the same artists I already know.,2,2025-04-14
+Reddit,r/spotify,negative,feature_request,The electronic radio feature just plays the same 20 songs on loop. Completely pointless.,1,2024-08-01
+App Store,iOS App Store,positive,algorithm_bubble,The indie playlist recommendations have been spot on lately. Really impressed.,4,2024-11-29
+Google Play,Play Store,negative,mood_mismatch,Discover Weekly used to be amazing for rock. Now it's just the same artists I already know.,2,2024-07-11
+Reddit,r/spotify,positive,discovery_success,Discover Weekly nailed it this week with amazing reggae music I'd never heard before.,4,2025-02-01
+Spotify Community,community.spotify.com,negative,mood_mismatch,Can't discover new jazz music on Spotify anymore. Everything feels recycled.,2,2024-06-29
+App Store,iOS App Store,negative,discovery_success,The indie radio feature just plays the same 20 songs on loop. Completely pointless.,2,2024-12-05
+App Store,iOS App Store,negative,repetitive_listening,The pop radio feature just plays the same 20 songs on loop. Completely pointless.,2,2024-12-06
+Reddit,r/ListenToThis,negative,discovery_problem,I want to explore new pop genres but Spotify keeps pulling me back to the same stuff.,2,2024-09-18
+Reddit,r/ListenToThis,positive,repetitive_listening,Spotify introduced me to my new favorite reggae artist this week. This is why I pay for Premium.,4,2025-03-06
+Reddit,r/spotify,negative,algorithm_issue,My K-pop recommendations never change. Stuck in the same bubble forever.,1,2025-03-06
+App Store,iOS App Store,negative,feature_request,I want to explore new indie genres but Spotify keeps pulling me back to the same stuff.,1,2025-05-11
+Google Play,Play Store,neutral,algorithm_bubble,Okay for hip-hop music but I wish there was more control over recommendations.,3,2024-09-09
+App Store,iOS App Store,negative,algorithm_bubble,The jazz radio feature just plays the same 20 songs on loop. Completely pointless.,2,2025-02-20
+Google Play,Play Store,negative,repetitive_listening,Discover Weekly used to be amazing for Bollywood. Now it's just the same artists I already know.,2,2025-04-09
+App Store,iOS App Store,neutral,algorithm_issue,Decent for electronic but competitors are catching up on the discovery front.,3,2024-06-06
+Reddit,r/spotify,negative,repetitive_listening,Spotify doesn't understand my hip-hop mood at all. Wrong songs at the wrong time.,2,2024-08-13
+App Store,iOS App Store,negative,discovery_success,Spotify's recommendations have gotten worse. I keep hearing the same electronic songs no matter what I do.,2,2025-02-24
+Google Play,Play Store,negative,mood_mismatch,Discover Weekly used to be amazing for reggae. Now it's just the same artists I already know.,2,2024-07-28
+Spotify Community,community.spotify.com,negative,repetitive_listening,I want to explore new hip-hop genres but Spotify keeps pulling me back to the same stuff.,1,2025-05-28
+Google Play,Play Store,negative,mood_mismatch,The K-pop algorithm is completely broken. I've given up trying to find new music through Spotify.,1,2025-04-04
+Reddit,r/ListenToThis,negative,algorithm_issue,I find all my new folk music on Reels now. Spotify discovery is useless for my taste.,1,2025-05-10
+Google Play,Play Store,positive,feature_request,Spotify introduced me to my new favorite pop artist this week. This is why I pay for Premium.,4,2024-11-03
+Google Play,Play Store,negative,repetitive_listening,Spotify doesn't understand my hip-hop mood at all. Wrong songs at the wrong time.,2,2025-02-20
+Google Play,Play Store,negative,feature_request,The K-pop radio feature just plays the same 20 songs on loop. Completely pointless.,2,2024-06-29
+Spotify Community,community.spotify.com,negative,algorithm_issue,Discover Weekly used to be amazing for Latin. Now it's just the same artists I already know.,1,2025-05-21
+Google Play,Play Store,negative,feature_request,Been Premium for R&B years and discovery quality keeps declining. Very disappointed.,2,2024-08-09
+Spotify Community,community.spotify.com,negative,mood_mismatch,Spotify's recommendations have gotten worse. I keep hearing the same R&B songs no matter what I do.,2,2024-11-23
+Google Play,Play Store,negative,algorithm_bubble,Can't discover new reggae music on Spotify anymore. Everything feels recycled.,2,2025-01-12
+Google Play,Play Store,neutral,repetitive_listening,Good app but reggae discovery could be much better. Some frustrations but still useful.,3,2024-06-03
+Google Play,Play Store,negative,repetitive_listening,Been Premium for indie years and discovery quality keeps declining. Very disappointed.,1,2024-08-11
+Reddit,r/ListenToThis,negative,algorithm_issue,Spotify's recommendations have gotten worse. I keep hearing the same indie songs no matter what I do.,1,2024-09-08
+Google Play,Play Store,negative,repetitive_listening,I find all my new hip-hop music on Reels now. Spotify discovery is useless for my taste.,1,2024-11-11
+Reddit,r/spotify,neutral,repetitive_listening,Good app but metal discovery could be much better. Some frustrations but still useful.,3,2025-01-24
+Reddit,r/spotify,negative,algorithm_bubble,Spotify's recommendations have gotten worse. I keep hearing the same K-pop songs no matter what I do.,2,2024-07-01
+App Store,iOS App Store,positive,repetitive_listening,Discover Weekly nailed it this week with amazing pop music I'd never heard before.,5,2025-02-19
+Google Play,Play Store,negative,algorithm_bubble,Spotify doesn't understand my jazz mood at all. Wrong songs at the wrong time.,2,2024-06-01
+Reddit,r/ListenToThis,negative,repetitive_listening,Been Premium for ambient years and discovery quality keeps declining. Very disappointed.,2,2025-05-07
+Google Play,Play Store,neutral,mood_mismatch,Decent for K-pop but competitors are catching up on the discovery front.,3,2024-11-15
+Reddit,r/spotify,positive,discovery_success,Daily Mix is perfect for my jazz taste. Great mix of familiar and new.,5,2024-08-27
+Google Play,Play Store,negative,mood_mismatch,The reggae radio feature just plays the same 20 songs on loop. Completely pointless.,2,2025-04-06
+App Store,iOS App Store,neutral,algorithm_bubble,Good app but Latin discovery could be much better. Some frustrations but still useful.,3,2024-10-12
+Google Play,Play Store,negative,mood_mismatch,Can't discover new metal music on Spotify anymore. Everything feels recycled.,2,2025-02-14
+Reddit,r/ListenToThis,negative,discovery_success,My Bollywood recommendations never change. Stuck in the same bubble forever.,2,2025-03-17
+Reddit,r/spotify,neutral,mood_mismatch,Good app but jazz discovery could be much better. Some frustrations but still useful.,3,2025-03-17
+Google Play,Play Store,positive,algorithm_bubble,Daily Mix is perfect for my classical taste. Great mix of familiar and new.,4,2024-06-14
+App Store,iOS App Store,negative,mood_mismatch,I want to explore new jazz genres but Spotify keeps pulling me back to the same stuff.,1,2024-07-17
+Reddit,r/ListenToThis,negative,feature_request,Can't discover new hip-hop music on Spotify anymore. Everything feels recycled.,1,2025-02-17
+Google Play,Play Store,negative,algorithm_issue,The metal radio feature just plays the same 20 songs on loop. Completely pointless.,2,2024-09-11
+App Store,iOS App Store,positive,feature_request,The AI DJ feature is brilliant for hip-hop — it actually surprises me sometimes.,5,2024-09-23
+Reddit,r/spotify,negative,feature_request,Spotify's recommendations have gotten worse. I keep hearing the same electronic songs no matter what I do.,1,2024-11-26
+App Store,iOS App Store,positive,mood_mismatch,Discover Weekly nailed it this week with amazing metal music I'd never heard before.,4,2024-08-18
+Reddit,r/spotify,negative,algorithm_issue,Spotify's recommendations have gotten worse. I keep hearing the same hip-hop songs no matter what I do.,2,2024-06-06
+App Store,iOS App Store,negative,feature_request,My classical recommendations never change. Stuck in the same bubble forever.,2,2025-04-03
+Reddit,r/spotify,positive,discovery_success,The rock playlist recommendations have been spot on lately. Really impressed.,5,2024-10-11
+Spotify Community,community.spotify.com,positive,repetitive_listening,Discover Weekly nailed it this week with amazing Bollywood music I'd never heard before.,5,2025-03-18
+Reddit,r/spotify,positive,algorithm_bubble,Discover Weekly nailed it this week with amazing pop music I'd never heard before.,4,2024-10-12
+Spotify Community,community.spotify.com,negative,discovery_success,Spotify's recommendations have gotten worse. I keep hearing the same Bollywood songs no matter what I do.,2,2025-05-26
+Google Play,Play Store,negative,discovery_problem,Been Premium for reggae years and discovery quality keeps declining. Very disappointed.,2,2024-06-10
+Reddit,r/spotify,negative,discovery_success,The indie algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2025-02-01
+Spotify Community,community.spotify.com,negative,discovery_problem,The rock radio feature just plays the same 20 songs on loop. Completely pointless.,1,2025-05-06
+Reddit,r/spotify,negative,repetitive_listening,Discover Weekly used to be amazing for Latin. Now it's just the same artists I already know.,2,2024-09-15
+Reddit,r/spotify,negative,discovery_success,Been Premium for metal years and discovery quality keeps declining. Very disappointed.,2,2024-12-18
+App Store,iOS App Store,neutral,discovery_problem,Okay for R&B music but I wish there was more control over recommendations.,3,2024-11-03
+Spotify Community,community.spotify.com,neutral,mood_mismatch,"Mixed experience with Bollywood discovery. Sometimes great, sometimes completely off.",3,2025-03-05
+Google Play,Play Store,negative,mood_mismatch,Discover Weekly used to be amazing for R&B. Now it's just the same artists I already know.,2,2024-09-24
+Spotify Community,community.spotify.com,negative,algorithm_issue,I want to explore new rock genres but Spotify keeps pulling me back to the same stuff.,1,2024-08-19
+Reddit,r/ListenToThis,negative,algorithm_issue,Discover Weekly used to be amazing for pop. Now it's just the same artists I already know.,2,2025-02-03
+Google Play,Play Store,negative,discovery_problem,Spotify's recommendations have gotten worse. I keep hearing the same reggae songs no matter what I do.,2,2024-12-16
+Reddit,r/spotify,negative,algorithm_issue,Spotify doesn't understand my jazz mood at all. Wrong songs at the wrong time.,2,2024-10-02
+Google Play,Play Store,negative,mood_mismatch,I find all my new reggae music on Reels now. Spotify discovery is useless for my taste.,1,2024-10-02
+Reddit,r/spotify,positive,repetitive_listening,The K-pop playlist recommendations have been spot on lately. Really impressed.,4,2024-07-15
+App Store,iOS App Store,positive,algorithm_issue,Spotify introduced me to my new favorite R&B artist this week. This is why I pay for Premium.,4,2025-02-14
+Reddit,r/spotify,negative,algorithm_bubble,Can't discover new electronic music on Spotify anymore. Everything feels recycled.,1,2024-10-14
+App Store,iOS App Store,positive,algorithm_bubble,Spotify introduced me to my new favorite pop artist this week. This is why I pay for Premium.,4,2025-03-14
+Spotify Community,community.spotify.com,neutral,algorithm_bubble,"Mixed experience with hip-hop discovery. Sometimes great, sometimes completely off.",3,2024-10-04
+Google Play,Play Store,negative,algorithm_bubble,The ambient radio feature just plays the same 20 songs on loop. Completely pointless.,2,2025-03-11
+Reddit,r/ListenToThis,negative,mood_mismatch,Spotify doesn't understand my indie mood at all. Wrong songs at the wrong time.,2,2024-11-04
+Reddit,r/ListenToThis,neutral,feature_request,Decent for hip-hop but competitors are catching up on the discovery front.,3,2024-12-26
+App Store,iOS App Store,negative,algorithm_bubble,Been Premium for R&B years and discovery quality keeps declining. Very disappointed.,2,2024-11-07
+Reddit,r/spotify,negative,feature_request,Been Premium for jazz years and discovery quality keeps declining. Very disappointed.,2,2024-10-05
+App Store,iOS App Store,negative,algorithm_bubble,The electronic radio feature just plays the same 20 songs on loop. Completely pointless.,2,2025-04-26
+Reddit,r/spotify,negative,feature_request,Discover Weekly used to be amazing for Latin. Now it's just the same artists I already know.,2,2025-03-21
+Google Play,Play Store,negative,discovery_success,Been Premium for Bollywood years and discovery quality keeps declining. Very disappointed.,2,2025-04-14
+Google Play,Play Store,neutral,mood_mismatch,Decent for Bollywood but competitors are catching up on the discovery front.,3,2024-10-24
+Spotify Community,community.spotify.com,negative,discovery_success,Can't discover new folk music on Spotify anymore. Everything feels recycled.,2,2024-07-25
+Reddit,r/ListenToThis,negative,discovery_problem,I want to explore new electronic genres but Spotify keeps pulling me back to the same stuff.,1,2024-07-17
+Reddit,r/spotify,negative,algorithm_bubble,I find all my new metal music on Reels now. Spotify discovery is useless for my taste.,2,2024-11-21
+Reddit,r/ListenToThis,neutral,discovery_success,Decent for pop but competitors are catching up on the discovery front.,3,2025-03-07
+App Store,iOS App Store,positive,algorithm_bubble,Daily Mix is perfect for my R&B taste. Great mix of familiar and new.,4,2024-12-01
+Spotify Community,community.spotify.com,negative,algorithm_bubble,The ambient algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2024-09-17
+Reddit,r/spotify,positive,discovery_success,Daily Mix is perfect for my classical taste. Great mix of familiar and new.,5,2024-09-27
+Google Play,Play Store,neutral,algorithm_issue,"Mixed experience with pop discovery. Sometimes great, sometimes completely off.",3,2024-08-02
+Reddit,r/spotify,negative,repetitive_listening,I find all my new electronic music on Reels now. Spotify discovery is useless for my taste.,2,2025-03-12
+App Store,iOS App Store,negative,discovery_problem,Been Premium for reggae years and discovery quality keeps declining. Very disappointed.,2,2024-10-28
+Reddit,r/spotify,neutral,repetitive_listening,Okay for classical music but I wish there was more control over recommendations.,3,2025-04-02
+App Store,iOS App Store,negative,algorithm_bubble,Been Premium for metal years and discovery quality keeps declining. Very disappointed.,1,2025-01-30
+Spotify Community,community.spotify.com,negative,discovery_problem,Spotify doesn't understand my hip-hop mood at all. Wrong songs at the wrong time.,2,2024-09-18
+Google Play,Play Store,negative,feature_request,I find all my new pop music on Reels now. Spotify discovery is useless for my taste.,2,2024-08-30
+Spotify Community,community.spotify.com,negative,mood_mismatch,My jazz recommendations never change. Stuck in the same bubble forever.,2,2025-02-28
+Reddit,r/spotify,negative,feature_request,Spotify's recommendations have gotten worse. I keep hearing the same metal songs no matter what I do.,2,2024-07-09
+Reddit,r/spotify,neutral,algorithm_issue,"Mixed experience with classical discovery. Sometimes great, sometimes completely off.",3,2025-01-16
+Google Play,Play Store,neutral,mood_mismatch,"Mixed experience with R&B discovery. Sometimes great, sometimes completely off.",3,2024-07-14
+Reddit,r/spotify,negative,algorithm_bubble,The folk algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2024-08-01
+Reddit,r/ListenToThis,negative,repetitive_listening,Can't discover new pop music on Spotify anymore. Everything feels recycled.,2,2024-08-03
+Reddit,r/spotify,negative,algorithm_issue,The hip-hop radio feature just plays the same 20 songs on loop. Completely pointless.,2,2024-12-01
+App Store,iOS App Store,neutral,repetitive_listening,Okay for K-pop music but I wish there was more control over recommendations.,3,2024-08-27
+Reddit,r/ListenToThis,neutral,discovery_success,Decent for Bollywood but competitors are catching up on the discovery front.,3,2025-03-14
+Google Play,Play Store,negative,algorithm_issue,Been Premium for pop years and discovery quality keeps declining. Very disappointed.,1,2025-03-20
+Reddit,r/ListenToThis,negative,repetitive_listening,Discover Weekly used to be amazing for electronic. Now it's just the same artists I already know.,2,2024-07-16
+Google Play,Play Store,negative,feature_request,Discover Weekly used to be amazing for hip-hop. Now it's just the same artists I already know.,2,2024-09-22
+Google Play,Play Store,negative,algorithm_bubble,The R&B algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2024-09-09
+Google Play,Play Store,negative,feature_request,My Latin recommendations never change. Stuck in the same bubble forever.,2,2024-08-30
+App Store,iOS App Store,positive,discovery_problem,The pop playlist recommendations have been spot on lately. Really impressed.,4,2025-05-02
+Google Play,Play Store,positive,mood_mismatch,The folk playlist recommendations have been spot on lately. Really impressed.,4,2024-08-06
+App Store,iOS App Store,negative,discovery_success,The rock radio feature just plays the same 20 songs on loop. Completely pointless.,1,2024-09-28
+App Store,iOS App Store,negative,feature_request,Discover Weekly used to be amazing for indie. Now it's just the same artists I already know.,2,2025-03-31
+Reddit,r/ListenToThis,negative,discovery_success,Spotify doesn't understand my metal mood at all. Wrong songs at the wrong time.,2,2025-04-27
+Google Play,Play Store,negative,algorithm_bubble,Spotify's recommendations have gotten worse. I keep hearing the same hip-hop songs no matter what I do.,1,2024-11-05
+Reddit,r/spotify,neutral,discovery_success,Decent for Bollywood but competitors are catching up on the discovery front.,3,2025-03-29
+Reddit,r/ListenToThis,negative,feature_request,Been Premium for rock years and discovery quality keeps declining. Very disappointed.,2,2025-04-16
+Google Play,Play Store,negative,algorithm_issue,I want to explore new indie genres but Spotify keeps pulling me back to the same stuff.,2,2024-07-07
+Google Play,Play Store,negative,algorithm_issue,Can't discover new R&B music on Spotify anymore. Everything feels recycled.,1,2024-08-25
+Google Play,Play Store,negative,algorithm_bubble,My rock recommendations never change. Stuck in the same bubble forever.,2,2024-08-22
+App Store,iOS App Store,negative,feature_request,My classical recommendations never change. Stuck in the same bubble forever.,2,2024-11-24
+Reddit,r/ListenToThis,negative,algorithm_bubble,Discover Weekly used to be amazing for metal. Now it's just the same artists I already know.,2,2024-12-15
+App Store,iOS App Store,positive,discovery_problem,Spotify introduced me to my new favorite R&B artist this week. This is why I pay for Premium.,5,2024-11-02
+Google Play,Play Store,negative,repetitive_listening,I find all my new R&B music on Reels now. Spotify discovery is useless for my taste.,2,2024-07-08
+Reddit,r/ListenToThis,neutral,discovery_problem,Decent for K-pop but competitors are catching up on the discovery front.,3,2025-01-15
+App Store,iOS App Store,negative,mood_mismatch,Spotify's recommendations have gotten worse. I keep hearing the same hip-hop songs no matter what I do.,1,2025-05-18
+Google Play,Play Store,negative,algorithm_issue,Spotify doesn't understand my hip-hop mood at all. Wrong songs at the wrong time.,1,2025-01-05
+Google Play,Play Store,positive,algorithm_issue,The R&B playlist recommendations have been spot on lately. Really impressed.,5,2024-11-11
+App Store,iOS App Store,positive,mood_mismatch,Spotify introduced me to my new favorite folk artist this week. This is why I pay for Premium.,4,2024-12-31
+App Store,iOS App Store,negative,mood_mismatch,The ambient radio feature just plays the same 20 songs on loop. Completely pointless.,2,2024-09-21
+Reddit,r/spotify,negative,discovery_problem,Been Premium for pop years and discovery quality keeps declining. Very disappointed.,2,2024-12-10
+Reddit,r/spotify,negative,repetitive_listening,Discover Weekly used to be amazing for rock. Now it's just the same artists I already know.,2,2025-02-14
+Reddit,r/spotify,positive,repetitive_listening,The AI DJ feature is brilliant for Latin — it actually surprises me sometimes.,4,2024-07-29
+App Store,iOS App Store,negative,discovery_success,I find all my new R&B music on Reels now. Spotify discovery is useless for my taste.,2,2024-11-04
+Reddit,r/ListenToThis,negative,feature_request,Spotify doesn't understand my folk mood at all. Wrong songs at the wrong time.,2,2024-06-16
+App Store,iOS App Store,negative,feature_request,Spotify doesn't understand my Bollywood mood at all. Wrong songs at the wrong time.,2,2025-02-20
+Google Play,Play Store,positive,discovery_success,Spotify introduced me to my new favorite indie artist this week. This is why I pay for Premium.,5,2025-01-28
+Reddit,r/ListenToThis,negative,discovery_success,The metal algorithm is completely broken. I've given up trying to find new music through Spotify.,1,2024-12-06
+Google Play,Play Store,positive,algorithm_bubble,The reggae playlist recommendations have been spot on lately. Really impressed.,4,2024-06-06
+Google Play,Play Store,negative,feature_request,The jazz algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2024-08-24
+Reddit,r/spotify,negative,repetitive_listening,My electronic recommendations never change. Stuck in the same bubble forever.,2,2025-05-23
+Google Play,Play Store,negative,repetitive_listening,Can't discover new Bollywood music on Spotify anymore. Everything feels recycled.,2,2025-04-23
+Spotify Community,community.spotify.com,negative,repetitive_listening,Spotify doesn't understand my hip-hop mood at all. Wrong songs at the wrong time.,2,2024-12-07
+Spotify Community,community.spotify.com,positive,feature_request,Spotify introduced me to my new favorite folk artist this week. This is why I pay for Premium.,4,2025-03-24
+App Store,iOS App Store,positive,mood_mismatch,The jazz playlist recommendations have been spot on lately. Really impressed.,5,2024-12-01
+Reddit,r/spotify,neutral,algorithm_bubble,Decent for jazz but competitors are catching up on the discovery front.,3,2025-03-18
+Google Play,Play Store,negative,discovery_problem,The rock radio feature just plays the same 20 songs on loop. Completely pointless.,1,2024-10-17
+Spotify Community,community.spotify.com,positive,algorithm_issue,The ambient playlist recommendations have been spot on lately. Really impressed.,5,2025-04-03
+Reddit,r/ListenToThis,negative,algorithm_bubble,Spotify doesn't understand my K-pop mood at all. Wrong songs at the wrong time.,1,2024-07-29
+App Store,iOS App Store,neutral,algorithm_issue,Good app but K-pop discovery could be much better. Some frustrations but still useful.,3,2024-08-09
+Reddit,r/spotify,negative,repetitive_listening,Spotify doesn't understand my rock mood at all. Wrong songs at the wrong time.,1,2025-05-31
+Spotify Community,community.spotify.com,positive,feature_request,Spotify introduced me to my new favorite jazz artist this week. This is why I pay for Premium.,4,2025-01-08
+Reddit,r/ListenToThis,neutral,feature_request,Decent for jazz but competitors are catching up on the discovery front.,3,2025-02-22
+Reddit,r/ListenToThis,positive,discovery_success,The jazz playlist recommendations have been spot on lately. Really impressed.,5,2024-06-30
+Reddit,r/spotify,negative,feature_request,The metal radio feature just plays the same 20 songs on loop. Completely pointless.,1,2025-01-19
+Reddit,r/spotify,neutral,feature_request,Decent for reggae but competitors are catching up on the discovery front.,3,2024-06-06
+App Store,iOS App Store,negative,repetitive_listening,Can't discover new pop music on Spotify anymore. Everything feels recycled.,2,2024-06-30
+Google Play,Play Store,neutral,repetitive_listening,Decent for electronic but competitors are catching up on the discovery front.,3,2024-06-27
+Google Play,Play Store,positive,feature_request,The AI DJ feature is brilliant for electronic — it actually surprises me sometimes.,4,2024-10-24
+Reddit,r/spotify,negative,feature_request,I find all my new metal music on Reels now. Spotify discovery is useless for my taste.,2,2025-05-15
+App Store,iOS App Store,negative,algorithm_bubble,My electronic recommendations never change. Stuck in the same bubble forever.,1,2024-11-03
+Reddit,r/spotify,negative,discovery_success,Can't discover new rock music on Spotify anymore. Everything feels recycled.,2,2025-03-01
+App Store,iOS App Store,neutral,algorithm_issue,"Mixed experience with reggae discovery. Sometimes great, sometimes completely off.",3,2025-05-28
+App Store,iOS App Store,neutral,algorithm_bubble,Okay for Bollywood music but I wish there was more control over recommendations.,3,2024-08-18
+Reddit,r/ListenToThis,negative,repetitive_listening,Spotify doesn't understand my indie mood at all. Wrong songs at the wrong time.,2,2024-12-28
+App Store,iOS App Store,positive,feature_request,Spotify introduced me to my new favorite rock artist this week. This is why I pay for Premium.,5,2025-05-15
+App Store,iOS App Store,negative,repetitive_listening,The jazz algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2024-12-28
+Spotify Community,community.spotify.com,neutral,discovery_problem,Okay for indie music but I wish there was more control over recommendations.,3,2025-04-25
+Google Play,Play Store,negative,mood_mismatch,Can't discover new reggae music on Spotify anymore. Everything feels recycled.,1,2024-09-16
+Reddit,r/spotify,neutral,repetitive_listening,Decent for pop but competitors are catching up on the discovery front.,3,2025-02-02
+App Store,iOS App Store,positive,discovery_success,Discover Weekly nailed it this week with amazing indie music I'd never heard before.,5,2024-08-28
+Reddit,r/ListenToThis,negative,discovery_success,Discover Weekly used to be amazing for Latin. Now it's just the same artists I already know.,2,2025-01-26
+Google Play,Play Store,negative,algorithm_bubble,I want to explore new electronic genres but Spotify keeps pulling me back to the same stuff.,1,2024-10-26
+App Store,iOS App Store,negative,discovery_success,Can't discover new jazz music on Spotify anymore. Everything feels recycled.,1,2024-09-01
+Reddit,r/ListenToThis,negative,feature_request,Spotify doesn't understand my ambient mood at all. Wrong songs at the wrong time.,2,2024-10-26
+App Store,iOS App Store,negative,feature_request,Can't discover new pop music on Spotify anymore. Everything feels recycled.,2,2025-05-18
+Reddit,r/spotify,negative,mood_mismatch,Spotify doesn't understand my metal mood at all. Wrong songs at the wrong time.,2,2024-10-20
+App Store,iOS App Store,negative,discovery_problem,I find all my new Latin music on Reels now. Spotify discovery is useless for my taste.,2,2025-04-13
+Reddit,r/spotify,positive,mood_mismatch,The jazz playlist recommendations have been spot on lately. Really impressed.,5,2024-11-03
+App Store,iOS App Store,neutral,algorithm_bubble,Decent for rock but competitors are catching up on the discovery front.,3,2024-12-11
+Reddit,r/spotify,negative,mood_mismatch,Can't discover new hip-hop music on Spotify anymore. Everything feels recycled.,2,2025-05-02
+Google Play,Play Store,negative,feature_request,The rock algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2025-01-15
+App Store,iOS App Store,negative,mood_mismatch,The metal radio feature just plays the same 20 songs on loop. Completely pointless.,1,2024-07-31
+Spotify Community,community.spotify.com,positive,algorithm_bubble,Daily Mix is perfect for my classical taste. Great mix of familiar and new.,5,2024-06-12
+Reddit,r/spotify,positive,algorithm_bubble,Spotify introduced me to my new favorite hip-hop artist this week. This is why I pay for Premium.,5,2024-07-24
+Reddit,r/ListenToThis,neutral,mood_mismatch,Decent for jazz but competitors are catching up on the discovery front.,3,2025-05-03
+Google Play,Play Store,neutral,feature_request,"Mixed experience with indie discovery. Sometimes great, sometimes completely off.",3,2024-08-20
+Google Play,Play Store,negative,mood_mismatch,Spotify's recommendations have gotten worse. I keep hearing the same metal songs no matter what I do.,2,2025-04-25
+Reddit,r/ListenToThis,negative,feature_request,Can't discover new electronic music on Spotify anymore. Everything feels recycled.,1,2025-04-08
+Spotify Community,community.spotify.com,positive,repetitive_listening,Daily Mix is perfect for my classical taste. Great mix of familiar and new.,4,2025-02-19
+Google Play,Play Store,negative,algorithm_issue,The hip-hop algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2025-02-02
+Reddit,r/ListenToThis,negative,algorithm_issue,Can't discover new Bollywood music on Spotify anymore. Everything feels recycled.,2,2025-03-18
+App Store,iOS App Store,negative,repetitive_listening,The reggae algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2024-11-04
+Google Play,Play Store,negative,mood_mismatch,Spotify's recommendations have gotten worse. I keep hearing the same rock songs no matter what I do.,1,2025-01-17
+Google Play,Play Store,negative,mood_mismatch,Spotify doesn't understand my rock mood at all. Wrong songs at the wrong time.,1,2025-03-09
+Reddit,r/spotify,negative,repetitive_listening,Spotify doesn't understand my hip-hop mood at all. Wrong songs at the wrong time.,2,2024-08-22
+Reddit,r/ListenToThis,negative,mood_mismatch,Been Premium for electronic years and discovery quality keeps declining. Very disappointed.,2,2024-11-06
+Reddit,r/spotify,positive,algorithm_issue,Daily Mix is perfect for my ambient taste. Great mix of familiar and new.,5,2024-12-03
+Reddit,r/ListenToThis,negative,algorithm_issue,Spotify doesn't understand my jazz mood at all. Wrong songs at the wrong time.,2,2024-07-30
+Google Play,Play Store,positive,algorithm_issue,Discover Weekly nailed it this week with amazing metal music I'd never heard before.,5,2025-01-10
+Spotify Community,community.spotify.com,positive,feature_request,The AI DJ feature is brilliant for folk — it actually surprises me sometimes.,5,2025-04-11
+Google Play,Play Store,negative,mood_mismatch,The metal radio feature just plays the same 20 songs on loop. Completely pointless.,2,2024-09-16
+App Store,iOS App Store,positive,algorithm_issue,Spotify introduced me to my new favorite K-pop artist this week. This is why I pay for Premium.,5,2025-01-30
+Reddit,r/spotify,negative,repetitive_listening,I want to explore new folk genres but Spotify keeps pulling me back to the same stuff.,2,2025-03-16
+App Store,iOS App Store,negative,discovery_success,Spotify doesn't understand my Bollywood mood at all. Wrong songs at the wrong time.,2,2024-06-27
+App Store,iOS App Store,neutral,discovery_problem,Decent for hip-hop but competitors are catching up on the discovery front.,3,2024-07-22
+App Store,iOS App Store,negative,discovery_problem,Been Premium for indie years and discovery quality keeps declining. Very disappointed.,2,2025-05-05
+Reddit,r/spotify,neutral,mood_mismatch,"Mixed experience with classical discovery. Sometimes great, sometimes completely off.",3,2025-03-03
+Google Play,Play Store,neutral,algorithm_issue,Good app but classical discovery could be much better. Some frustrations but still useful.,3,2025-01-04
+Google Play,Play Store,neutral,algorithm_issue,Decent for classical but competitors are catching up on the discovery front.,3,2025-02-23
+Reddit,r/ListenToThis,negative,discovery_success,The ambient radio feature just plays the same 20 songs on loop. Completely pointless.,2,2024-10-12
+Google Play,Play Store,negative,repetitive_listening,The rock radio feature just plays the same 20 songs on loop. Completely pointless.,2,2024-10-20
+Spotify Community,community.spotify.com,negative,discovery_success,Discover Weekly used to be amazing for pop. Now it's just the same artists I already know.,2,2024-08-28
+App Store,iOS App Store,negative,discovery_success,The pop algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2024-10-29
+Reddit,r/ListenToThis,negative,algorithm_issue,Spotify doesn't understand my K-pop mood at all. Wrong songs at the wrong time.,2,2025-01-01
+Google Play,Play Store,positive,feature_request,Daily Mix is perfect for my Bollywood taste. Great mix of familiar and new.,5,2024-09-30
+Reddit,r/spotify,negative,mood_mismatch,Discover Weekly used to be amazing for electronic. Now it's just the same artists I already know.,2,2024-11-13
+Reddit,r/ListenToThis,negative,mood_mismatch,The classical algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2024-10-02
+Google Play,Play Store,negative,algorithm_issue,Can't discover new electronic music on Spotify anymore. Everything feels recycled.,1,2025-03-21
+App Store,iOS App Store,neutral,discovery_problem,Decent for indie but competitors are catching up on the discovery front.,3,2024-10-01
+Google Play,Play Store,positive,repetitive_listening,Daily Mix is perfect for my hip-hop taste. Great mix of familiar and new.,4,2025-05-23
+Reddit,r/spotify,negative,mood_mismatch,The ambient radio feature just plays the same 20 songs on loop. Completely pointless.,1,2024-10-17
+Google Play,Play Store,positive,algorithm_bubble,Daily Mix is perfect for my reggae taste. Great mix of familiar and new.,5,2025-01-30
+App Store,iOS App Store,negative,mood_mismatch,Spotify doesn't understand my K-pop mood at all. Wrong songs at the wrong time.,1,2024-11-16
+Google Play,Play Store,positive,mood_mismatch,Daily Mix is perfect for my pop taste. Great mix of familiar and new.,5,2024-06-29
+Reddit,r/spotify,negative,feature_request,The hip-hop radio feature just plays the same 20 songs on loop. Completely pointless.,2,2024-10-27
+App Store,iOS App Store,negative,discovery_success,I want to explore new metal genres but Spotify keeps pulling me back to the same stuff.,1,2024-09-18
+Reddit,r/spotify,positive,repetitive_listening,Daily Mix is perfect for my jazz taste. Great mix of familiar and new.,4,2024-12-01
+Spotify Community,community.spotify.com,negative,algorithm_issue,The hip-hop algorithm is completely broken. I've given up trying to find new music through Spotify.,1,2024-09-22
+Reddit,r/spotify,positive,discovery_problem,Discover Weekly nailed it this week with amazing ambient music I'd never heard before.,5,2024-11-19
+Google Play,Play Store,negative,algorithm_issue,Spotify's recommendations have gotten worse. I keep hearing the same Bollywood songs no matter what I do.,2,2024-08-21
+App Store,iOS App Store,positive,algorithm_issue,The AI DJ feature is brilliant for rock — it actually surprises me sometimes.,4,2024-09-27
+Reddit,r/spotify,negative,repetitive_listening,The Bollywood algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2024-06-19
+App Store,iOS App Store,neutral,discovery_problem,Decent for indie but competitors are catching up on the discovery front.,3,2024-07-08
+Spotify Community,community.spotify.com,neutral,algorithm_issue,Okay for folk music but I wish there was more control over recommendations.,3,2025-03-08
+Google Play,Play Store,neutral,repetitive_listening,Good app but Latin discovery could be much better. Some frustrations but still useful.,3,2025-02-20
+Reddit,r/ListenToThis,positive,discovery_problem,Discover Weekly nailed it this week with amazing metal music I'd never heard before.,4,2024-08-08
+Reddit,r/ListenToThis,positive,algorithm_issue,Discover Weekly nailed it this week with amazing K-pop music I'd never heard before.,5,2025-01-03
+Reddit,r/spotify,positive,discovery_success,Spotify introduced me to my new favorite folk artist this week. This is why I pay for Premium.,4,2024-10-04
+Spotify Community,community.spotify.com,negative,repetitive_listening,My jazz recommendations never change. Stuck in the same bubble forever.,1,2025-03-13
+Reddit,r/spotify,negative,discovery_problem,Spotify's recommendations have gotten worse. I keep hearing the same classical songs no matter what I do.,2,2024-07-18
+Reddit,r/spotify,negative,discovery_problem,The Bollywood radio feature just plays the same 20 songs on loop. Completely pointless.,2,2025-04-22
+Reddit,r/spotify,positive,algorithm_bubble,Spotify introduced me to my new favorite electronic artist this week. This is why I pay for Premium.,4,2025-05-06
+App Store,iOS App Store,negative,algorithm_bubble,My pop recommendations never change. Stuck in the same bubble forever.,1,2025-03-05
+Reddit,r/spotify,positive,mood_mismatch,The AI DJ feature is brilliant for R&B — it actually surprises me sometimes.,4,2025-04-16
+Google Play,Play Store,positive,discovery_success,The AI DJ feature is brilliant for rock — it actually surprises me sometimes.,4,2025-01-09
+Reddit,r/spotify,negative,algorithm_bubble,Discover Weekly used to be amazing for K-pop. Now it's just the same artists I already know.,2,2025-05-24
+Reddit,r/spotify,positive,mood_mismatch,The ambient playlist recommendations have been spot on lately. Really impressed.,5,2024-08-13
+App Store,iOS App Store,positive,mood_mismatch,Spotify introduced me to my new favorite ambient artist this week. This is why I pay for Premium.,4,2024-06-16
+Reddit,r/spotify,neutral,feature_request,Okay for ambient music but I wish there was more control over recommendations.,3,2024-08-07
+Reddit,r/spotify,negative,discovery_problem,I want to explore new Latin genres but Spotify keeps pulling me back to the same stuff.,1,2024-12-13
+Reddit,r/spotify,neutral,feature_request,"Mixed experience with Latin discovery. Sometimes great, sometimes completely off.",3,2025-01-14
+Spotify Community,community.spotify.com,negative,discovery_success,The Latin algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2024-09-02
+App Store,iOS App Store,negative,discovery_success,Discover Weekly used to be amazing for ambient. Now it's just the same artists I already know.,2,2024-09-21
+Reddit,r/spotify,negative,repetitive_listening,My metal recommendations never change. Stuck in the same bubble forever.,1,2024-06-05
+App Store,iOS App Store,negative,feature_request,Been Premium for classical years and discovery quality keeps declining. Very disappointed.,2,2025-03-19
+Google Play,Play Store,negative,feature_request,Discover Weekly used to be amazing for reggae. Now it's just the same artists I already know.,2,2024-10-19
+Google Play,Play Store,negative,feature_request,I find all my new rock music on Reels now. Spotify discovery is useless for my taste.,1,2024-10-19
+App Store,iOS App Store,negative,algorithm_bubble,My K-pop recommendations never change. Stuck in the same bubble forever.,1,2025-03-25
+App Store,iOS App Store,negative,feature_request,Can't discover new classical music on Spotify anymore. Everything feels recycled.,2,2024-07-11
+Google Play,Play Store,negative,discovery_problem,Discover Weekly used to be amazing for folk. Now it's just the same artists I already know.,2,2025-03-25
+Reddit,r/ListenToThis,negative,repetitive_listening,My reggae recommendations never change. Stuck in the same bubble forever.,1,2025-02-04
+App Store,iOS App Store,neutral,repetitive_listening,Good app but folk discovery could be much better. Some frustrations but still useful.,3,2025-03-17
+Google Play,Play Store,positive,discovery_success,Daily Mix is perfect for my R&B taste. Great mix of familiar and new.,5,2025-01-02
+App Store,iOS App Store,negative,algorithm_issue,Spotify's recommendations have gotten worse. I keep hearing the same folk songs no matter what I do.,1,2024-11-28
+Reddit,r/spotify,negative,feature_request,Spotify doesn't understand my rock mood at all. Wrong songs at the wrong time.,2,2025-01-29
+Reddit,r/spotify,negative,repetitive_listening,The pop radio feature just plays the same 20 songs on loop. Completely pointless.,2,2025-01-23
+Google Play,Play Store,neutral,algorithm_issue,Decent for reggae but competitors are catching up on the discovery front.,3,2025-05-03
+Reddit,r/spotify,neutral,mood_mismatch,Good app but hip-hop discovery could be much better. Some frustrations but still useful.,3,2024-07-10
+Spotify Community,community.spotify.com,negative,repetitive_listening,The indie algorithm is completely broken. I've given up trying to find new music through Spotify.,1,2024-07-12
+Reddit,r/spotify,negative,algorithm_bubble,The electronic algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2024-08-19
+App Store,iOS App Store,negative,discovery_success,I want to explore new folk genres but Spotify keeps pulling me back to the same stuff.,2,2025-01-15
+Google Play,Play Store,negative,algorithm_issue,My reggae recommendations never change. Stuck in the same bubble forever.,2,2024-10-10
+Google Play,Play Store,positive,feature_request,Discover Weekly nailed it this week with amazing indie music I'd never heard before.,4,2025-05-28
+Reddit,r/ListenToThis,positive,feature_request,The AI DJ feature is brilliant for Latin — it actually surprises me sometimes.,5,2025-03-17
+App Store,iOS App Store,neutral,discovery_success,Okay for ambient music but I wish there was more control over recommendations.,3,2024-07-04
+Google Play,Play Store,negative,repetitive_listening,I want to explore new folk genres but Spotify keeps pulling me back to the same stuff.,1,2025-04-15
+App Store,iOS App Store,negative,discovery_problem,Spotify's recommendations have gotten worse. I keep hearing the same jazz songs no matter what I do.,1,2024-07-08
+Reddit,r/spotify,positive,mood_mismatch,Spotify introduced me to my new favorite rock artist this week. This is why I pay for Premium.,4,2024-08-04
+Google Play,Play Store,neutral,discovery_problem,"Mixed experience with electronic discovery. Sometimes great, sometimes completely off.",3,2024-11-09
+Spotify Community,community.spotify.com,neutral,algorithm_issue,Good app but Bollywood discovery could be much better. Some frustrations but still useful.,3,2024-10-11
+Reddit,r/spotify,negative,algorithm_issue,Been Premium for K-pop years and discovery quality keeps declining. Very disappointed.,1,2024-11-27
+Reddit,r/spotify,neutral,algorithm_issue,Decent for ambient but competitors are catching up on the discovery front.,3,2024-11-23
+Reddit,r/spotify,negative,algorithm_bubble,Discover Weekly used to be amazing for hip-hop. Now it's just the same artists I already know.,2,2024-08-18
+Google Play,Play Store,negative,algorithm_issue,Been Premium for jazz years and discovery quality keeps declining. Very disappointed.,2,2025-04-04
+Google Play,Play Store,positive,mood_mismatch,The indie playlist recommendations have been spot on lately. Really impressed.,4,2024-06-21
+Reddit,r/spotify,negative,feature_request,Been Premium for electronic years and discovery quality keeps declining. Very disappointed.,2,2025-05-31
+Reddit,r/ListenToThis,neutral,algorithm_issue,Decent for reggae but competitors are catching up on the discovery front.,3,2024-08-26
+App Store,iOS App Store,positive,algorithm_bubble,The ambient playlist recommendations have been spot on lately. Really impressed.,5,2025-03-21
+App Store,iOS App Store,negative,algorithm_bubble,The indie radio feature just plays the same 20 songs on loop. Completely pointless.,2,2024-12-19
+Spotify Community,community.spotify.com,negative,repetitive_listening,I want to explore new indie genres but Spotify keeps pulling me back to the same stuff.,2,2025-02-28
+App Store,iOS App Store,negative,algorithm_bubble,I want to explore new R&B genres but Spotify keeps pulling me back to the same stuff.,1,2025-02-16
+Google Play,Play Store,negative,repetitive_listening,I want to explore new electronic genres but Spotify keeps pulling me back to the same stuff.,2,2025-03-21
+Google Play,Play Store,positive,discovery_problem,Spotify introduced me to my new favorite R&B artist this week. This is why I pay for Premium.,4,2024-07-08
+Reddit,r/ListenToThis,negative,mood_mismatch,The Latin algorithm is completely broken. I've given up trying to find new music through Spotify.,1,2024-07-11
+Reddit,r/ListenToThis,negative,discovery_problem,I find all my new R&B music on Reels now. Spotify discovery is useless for my taste.,1,2025-03-23
+Reddit,r/spotify,negative,repetitive_listening,I want to explore new ambient genres but Spotify keeps pulling me back to the same stuff.,2,2025-01-10
+Spotify Community,community.spotify.com,positive,mood_mismatch,The AI DJ feature is brilliant for rock — it actually surprises me sometimes.,5,2025-03-14
+Google Play,Play Store,negative,discovery_success,I want to explore new indie genres but Spotify keeps pulling me back to the same stuff.,2,2024-08-04
+Spotify Community,community.spotify.com,positive,discovery_problem,The AI DJ feature is brilliant for jazz — it actually surprises me sometimes.,5,2024-11-25
+Reddit,r/ListenToThis,negative,repetitive_listening,I want to explore new classical genres but Spotify keeps pulling me back to the same stuff.,2,2025-01-21
+Google Play,Play Store,positive,mood_mismatch,Discover Weekly nailed it this week with amazing Bollywood music I'd never heard before.,5,2024-09-22
+App Store,iOS App Store,negative,repetitive_listening,Can't discover new indie music on Spotify anymore. Everything feels recycled.,2,2025-01-06
+Spotify Community,community.spotify.com,negative,feature_request,I want to explore new Latin genres but Spotify keeps pulling me back to the same stuff.,1,2025-05-31
+App Store,iOS App Store,negative,mood_mismatch,I find all my new reggae music on Reels now. Spotify discovery is useless for my taste.,1,2025-04-26
+Reddit,r/spotify,neutral,mood_mismatch,Good app but electronic discovery could be much better. Some frustrations but still useful.,3,2024-08-12
+Reddit,r/spotify,negative,feature_request,Discover Weekly used to be amazing for K-pop. Now it's just the same artists I already know.,2,2025-01-19
+Reddit,r/spotify,negative,discovery_success,I find all my new R&B music on Reels now. Spotify discovery is useless for my taste.,2,2024-11-20
+Reddit,r/spotify,negative,algorithm_bubble,The R&B algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2025-05-24
+Reddit,r/ListenToThis,negative,algorithm_bubble,Spotify doesn't understand my electronic mood at all. Wrong songs at the wrong time.,1,2024-06-30
+App Store,iOS App Store,negative,discovery_success,Spotify doesn't understand my reggae mood at all. Wrong songs at the wrong time.,1,2025-05-24
+Reddit,r/spotify,neutral,algorithm_issue,Okay for K-pop music but I wish there was more control over recommendations.,3,2025-04-23
+Spotify Community,community.spotify.com,negative,algorithm_bubble,Spotify doesn't understand my indie mood at all. Wrong songs at the wrong time.,2,2024-09-27
+App Store,iOS App Store,negative,discovery_success,Spotify's recommendations have gotten worse. I keep hearing the same electronic songs no matter what I do.,2,2024-12-19
+Reddit,r/spotify,negative,algorithm_issue,My electronic recommendations never change. Stuck in the same bubble forever.,2,2025-04-17
+App Store,iOS App Store,negative,discovery_success,I want to explore new ambient genres but Spotify keeps pulling me back to the same stuff.,2,2024-08-24
+App Store,iOS App Store,neutral,algorithm_bubble,Decent for classical but competitors are catching up on the discovery front.,3,2025-02-26
+Spotify Community,community.spotify.com,negative,discovery_problem,I find all my new electronic music on Reels now. Spotify discovery is useless for my taste.,1,2025-04-05
+Google Play,Play Store,negative,mood_mismatch,The hip-hop algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2024-07-21
+Reddit,r/spotify,neutral,discovery_success,Good app but classical discovery could be much better. Some frustrations but still useful.,3,2024-08-07
+Reddit,r/spotify,neutral,repetitive_listening,Good app but hip-hop discovery could be much better. Some frustrations but still useful.,3,2024-09-08
+Google Play,Play Store,negative,algorithm_issue,My metal recommendations never change. Stuck in the same bubble forever.,2,2025-02-01
+Reddit,r/spotify,neutral,algorithm_bubble,Good app but hip-hop discovery could be much better. Some frustrations but still useful.,3,2024-07-17
+Google Play,Play Store,negative,algorithm_issue,I find all my new indie music on Reels now. Spotify discovery is useless for my taste.,2,2025-01-27
+Reddit,r/spotify,neutral,discovery_problem,Good app but rock discovery could be much better. Some frustrations but still useful.,3,2024-09-26
+Reddit,r/spotify,neutral,discovery_success,Good app but R&B discovery could be much better. Some frustrations but still useful.,3,2024-08-21
+Google Play,Play Store,positive,feature_request,Spotify introduced me to my new favorite pop artist this week. This is why I pay for Premium.,5,2025-03-01
+Google Play,Play Store,positive,algorithm_bubble,The AI DJ feature is brilliant for hip-hop — it actually surprises me sometimes.,4,2024-07-21
+Google Play,Play Store,negative,discovery_problem,Discover Weekly used to be amazing for R&B. Now it's just the same artists I already know.,2,2025-02-28
+Reddit,r/ListenToThis,neutral,mood_mismatch,Decent for metal but competitors are catching up on the discovery front.,3,2024-11-26
+Google Play,Play Store,neutral,discovery_success,Okay for ambient music but I wish there was more control over recommendations.,3,2024-12-09
+App Store,iOS App Store,negative,discovery_success,I want to explore new electronic genres but Spotify keeps pulling me back to the same stuff.,2,2025-01-03
+App Store,iOS App Store,positive,discovery_success,The AI DJ feature is brilliant for metal — it actually surprises me sometimes.,4,2024-06-01
+Google Play,Play Store,neutral,discovery_problem,Good app but K-pop discovery could be much better. Some frustrations but still useful.,3,2025-02-10
+Reddit,r/spotify,negative,algorithm_bubble,I find all my new K-pop music on Reels now. Spotify discovery is useless for my taste.,1,2024-06-04
+Reddit,r/ListenToThis,neutral,mood_mismatch,Good app but R&B discovery could be much better. Some frustrations but still useful.,3,2024-07-22
+Reddit,r/spotify,neutral,repetitive_listening,Good app but reggae discovery could be much better. Some frustrations but still useful.,3,2024-09-01
+App Store,iOS App Store,negative,discovery_success,Can't discover new Bollywood music on Spotify anymore. Everything feels recycled.,2,2025-03-17
+App Store,iOS App Store,positive,discovery_problem,Daily Mix is perfect for my rock taste. Great mix of familiar and new.,5,2025-05-13
+App Store,iOS App Store,positive,algorithm_bubble,Discover Weekly nailed it this week with amazing ambient music I'd never heard before.,4,2024-12-09
+Spotify Community,community.spotify.com,negative,algorithm_issue,Spotify doesn't understand my ambient mood at all. Wrong songs at the wrong time.,2,2025-04-20
+Google Play,Play Store,negative,algorithm_bubble,The Bollywood algorithm is completely broken. I've given up trying to find new music through Spotify.,1,2024-08-16
+Reddit,r/spotify,negative,discovery_success,The R&B radio feature just plays the same 20 songs on loop. Completely pointless.,2,2024-09-22
+Reddit,r/ListenToThis,negative,algorithm_issue,My indie recommendations never change. Stuck in the same bubble forever.,2,2024-12-10
+App Store,iOS App Store,neutral,feature_request,Good app but K-pop discovery could be much better. Some frustrations but still useful.,3,2025-01-19
+Reddit,r/ListenToThis,positive,discovery_problem,Spotify introduced me to my new favorite electronic artist this week. This is why I pay for Premium.,4,2024-06-08
+Spotify Community,community.spotify.com,negative,feature_request,I want to explore new Latin genres but Spotify keeps pulling me back to the same stuff.,2,2025-03-15
+Spotify Community,community.spotify.com,positive,discovery_success,The AI DJ feature is brilliant for K-pop — it actually surprises me sometimes.,5,2024-12-09
+Reddit,r/spotify,negative,discovery_success,The metal radio feature just plays the same 20 songs on loop. Completely pointless.,2,2024-12-26
+Reddit,r/ListenToThis,negative,repetitive_listening,Discover Weekly used to be amazing for metal. Now it's just the same artists I already know.,1,2024-06-10
+App Store,iOS App Store,negative,repetitive_listening,My rock recommendations never change. Stuck in the same bubble forever.,1,2024-10-27
+Reddit,r/ListenToThis,positive,algorithm_issue,The reggae playlist recommendations have been spot on lately. Really impressed.,5,2024-08-11
+Spotify Community,community.spotify.com,negative,feature_request,My classical recommendations never change. Stuck in the same bubble forever.,1,2024-08-09
+Google Play,Play Store,negative,algorithm_issue,Discover Weekly used to be amazing for folk. Now it's just the same artists I already know.,2,2025-05-30
+App Store,iOS App Store,positive,feature_request,The ambient playlist recommendations have been spot on lately. Really impressed.,4,2024-07-04
+Reddit,r/spotify,negative,mood_mismatch,Spotify's recommendations have gotten worse. I keep hearing the same Latin songs no matter what I do.,2,2025-02-06
+Reddit,r/spotify,negative,repetitive_listening,Discover Weekly used to be amazing for indie. Now it's just the same artists I already know.,1,2025-01-02
+Reddit,r/ListenToThis,negative,mood_mismatch,I want to explore new folk genres but Spotify keeps pulling me back to the same stuff.,2,2024-12-31
+App Store,iOS App Store,positive,discovery_problem,Discover Weekly nailed it this week with amazing electronic music I'd never heard before.,4,2024-08-22
+Google Play,Play Store,negative,mood_mismatch,I find all my new electronic music on Reels now. Spotify discovery is useless for my taste.,2,2025-01-26
+Google Play,Play Store,negative,discovery_success,Been Premium for K-pop years and discovery quality keeps declining. Very disappointed.,1,2024-12-17
+Reddit,r/ListenToThis,negative,repetitive_listening,Spotify's recommendations have gotten worse. I keep hearing the same classical songs no matter what I do.,2,2025-04-03
+Reddit,r/ListenToThis,positive,feature_request,Daily Mix is perfect for my pop taste. Great mix of familiar and new.,4,2024-11-10
+Google Play,Play Store,positive,feature_request,Daily Mix is perfect for my R&B taste. Great mix of familiar and new.,4,2024-10-27
+Reddit,r/ListenToThis,negative,algorithm_bubble,I find all my new electronic music on Reels now. Spotify discovery is useless for my taste.,1,2025-04-29
+Reddit,r/spotify,negative,repetitive_listening,I find all my new indie music on Reels now. Spotify discovery is useless for my taste.,2,2024-06-26
+Spotify Community,community.spotify.com,negative,mood_mismatch,Can't discover new jazz music on Spotify anymore. Everything feels recycled.,2,2024-06-03
+Reddit,r/ListenToThis,neutral,feature_request,Okay for electronic music but I wish there was more control over recommendations.,3,2025-03-25
+Google Play,Play Store,neutral,algorithm_bubble,Okay for hip-hop music but I wish there was more control over recommendations.,3,2025-05-09
+Reddit,r/spotify,negative,algorithm_issue,I find all my new ambient music on Reels now. Spotify discovery is useless for my taste.,1,2024-09-13
+Reddit,r/spotify,neutral,discovery_problem,Good app but K-pop discovery could be much better. Some frustrations but still useful.,3,2025-02-20
+Reddit,r/spotify,negative,algorithm_issue,Spotify's recommendations have gotten worse. I keep hearing the same ambient songs no matter what I do.,2,2024-07-22
+App Store,iOS App Store,neutral,feature_request,Decent for Latin but competitors are catching up on the discovery front.,3,2025-02-18
+Reddit,r/spotify,negative,discovery_success,The electronic radio feature just plays the same 20 songs on loop. Completely pointless.,2,2025-04-21
+Google Play,Play Store,negative,mood_mismatch,Been Premium for Latin years and discovery quality keeps declining. Very disappointed.,2,2025-03-02
+Reddit,r/spotify,neutral,discovery_success,Good app but K-pop discovery could be much better. Some frustrations but still useful.,3,2024-10-22
+Reddit,r/spotify,positive,discovery_success,The AI DJ feature is brilliant for pop — it actually surprises me sometimes.,5,2025-02-13
+Google Play,Play Store,neutral,mood_mismatch,"Mixed experience with ambient discovery. Sometimes great, sometimes completely off.",3,2024-11-29
+App Store,iOS App Store,negative,discovery_problem,Can't discover new hip-hop music on Spotify anymore. Everything feels recycled.,1,2024-12-02
+App Store,iOS App Store,negative,algorithm_bubble,I find all my new R&B music on Reels now. Spotify discovery is useless for my taste.,1,2025-01-07
+Reddit,r/ListenToThis,positive,discovery_problem,Spotify introduced me to my new favorite reggae artist this week. This is why I pay for Premium.,5,2024-08-14
+App Store,iOS App Store,neutral,feature_request,Okay for indie music but I wish there was more control over recommendations.,3,2024-08-24
+Reddit,r/spotify,neutral,algorithm_bubble,Okay for K-pop music but I wish there was more control over recommendations.,3,2025-02-13
+Reddit,r/ListenToThis,negative,mood_mismatch,Spotify doesn't understand my hip-hop mood at all. Wrong songs at the wrong time.,2,2024-11-04
+Reddit,r/spotify,positive,mood_mismatch,Discover Weekly nailed it this week with amazing folk music I'd never heard before.,5,2024-08-25
+Reddit,r/ListenToThis,negative,discovery_success,Been Premium for electronic years and discovery quality keeps declining. Very disappointed.,2,2024-10-13
+App Store,iOS App Store,negative,feature_request,I want to explore new jazz genres but Spotify keeps pulling me back to the same stuff.,1,2024-12-15
+Reddit,r/spotify,neutral,algorithm_issue,Good app but electronic discovery could be much better. Some frustrations but still useful.,3,2024-08-26
+App Store,iOS App Store,negative,algorithm_issue,Spotify doesn't understand my jazz mood at all. Wrong songs at the wrong time.,2,2025-01-01
+App Store,iOS App Store,neutral,mood_mismatch,Okay for reggae music but I wish there was more control over recommendations.,3,2024-08-16
+App Store,iOS App Store,negative,discovery_success,My pop recommendations never change. Stuck in the same bubble forever.,2,2024-08-07
+Reddit,r/ListenToThis,neutral,feature_request,Good app but K-pop discovery could be much better. Some frustrations but still useful.,3,2025-03-08
+Google Play,Play Store,negative,algorithm_bubble,The R&B algorithm is completely broken. I've given up trying to find new music through Spotify.,1,2024-10-03
+App Store,iOS App Store,positive,algorithm_bubble,The K-pop playlist recommendations have been spot on lately. Really impressed.,4,2024-06-29
+App Store,iOS App Store,negative,discovery_problem,Discover Weekly used to be amazing for Bollywood. Now it's just the same artists I already know.,1,2024-09-03
+Google Play,Play Store,positive,discovery_problem,The AI DJ feature is brilliant for ambient — it actually surprises me sometimes.,5,2024-10-22
+Spotify Community,community.spotify.com,negative,discovery_problem,Spotify doesn't understand my rock mood at all. Wrong songs at the wrong time.,1,2024-06-28
+App Store,iOS App Store,positive,mood_mismatch,The Bollywood playlist recommendations have been spot on lately. Really impressed.,4,2024-11-04
+Reddit,r/ListenToThis,negative,algorithm_issue,Spotify doesn't understand my Bollywood mood at all. Wrong songs at the wrong time.,2,2024-11-21
+Reddit,r/ListenToThis,neutral,algorithm_bubble,Okay for indie music but I wish there was more control over recommendations.,3,2024-11-28
+Spotify Community,community.spotify.com,negative,algorithm_bubble,The reggae radio feature just plays the same 20 songs on loop. Completely pointless.,2,2024-07-09
+App Store,iOS App Store,negative,mood_mismatch,The hip-hop radio feature just plays the same 20 songs on loop. Completely pointless.,2,2024-11-15
+Reddit,r/ListenToThis,positive,algorithm_issue,Discover Weekly nailed it this week with amazing ambient music I'd never heard before.,4,2024-10-26
+App Store,iOS App Store,negative,algorithm_bubble,The Bollywood algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2025-04-26
+Reddit,r/ListenToThis,neutral,discovery_problem,Decent for R&B but competitors are catching up on the discovery front.,3,2024-06-27
+Google Play,Play Store,neutral,discovery_success,Good app but jazz discovery could be much better. Some frustrations but still useful.,3,2024-10-07
+Google Play,Play Store,negative,feature_request,I want to explore new jazz genres but Spotify keeps pulling me back to the same stuff.,1,2024-09-30
+Google Play,Play Store,positive,repetitive_listening,The AI DJ feature is brilliant for hip-hop — it actually surprises me sometimes.,4,2025-02-01
+Spotify Community,community.spotify.com,negative,repetitive_listening,Spotify doesn't understand my Latin mood at all. Wrong songs at the wrong time.,2,2025-04-04
+Spotify Community,community.spotify.com,negative,algorithm_bubble,I want to explore new indie genres but Spotify keeps pulling me back to the same stuff.,2,2024-06-13
+Google Play,Play Store,positive,algorithm_issue,Daily Mix is perfect for my folk taste. Great mix of familiar and new.,5,2024-12-19
+Spotify Community,community.spotify.com,negative,mood_mismatch,The folk algorithm is completely broken. I've given up trying to find new music through Spotify.,1,2024-06-10
+Reddit,r/spotify,negative,repetitive_listening,The Bollywood algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2025-04-04
+App Store,iOS App Store,negative,mood_mismatch,Spotify's recommendations have gotten worse. I keep hearing the same metal songs no matter what I do.,2,2024-12-11
+Google Play,Play Store,neutral,discovery_problem,Decent for reggae but competitors are catching up on the discovery front.,3,2025-02-27
+Spotify Community,community.spotify.com,positive,feature_request,Discover Weekly nailed it this week with amazing indie music I'd never heard before.,4,2024-08-01
+Reddit,r/spotify,negative,algorithm_issue,Been Premium for Bollywood years and discovery quality keeps declining. Very disappointed.,2,2024-12-17
+Reddit,r/spotify,positive,algorithm_bubble,Discover Weekly nailed it this week with amazing classical music I'd never heard before.,5,2025-04-28
+App Store,iOS App Store,negative,repetitive_listening,Discover Weekly used to be amazing for indie. Now it's just the same artists I already know.,2,2024-11-17
+Google Play,Play Store,neutral,discovery_problem,"Mixed experience with metal discovery. Sometimes great, sometimes completely off.",3,2024-11-26
+Reddit,r/spotify,negative,feature_request,Been Premium for metal years and discovery quality keeps declining. Very disappointed.,2,2024-11-11
+Reddit,r/spotify,neutral,algorithm_bubble,Good app but Bollywood discovery could be much better. Some frustrations but still useful.,3,2024-11-12
+Spotify Community,community.spotify.com,negative,feature_request,The pop radio feature just plays the same 20 songs on loop. Completely pointless.,1,2024-08-16
+Spotify Community,community.spotify.com,negative,algorithm_bubble,Spotify's recommendations have gotten worse. I keep hearing the same metal songs no matter what I do.,1,2024-12-02
+Google Play,Play Store,neutral,mood_mismatch,Okay for jazz music but I wish there was more control over recommendations.,3,2025-03-19
+App Store,iOS App Store,positive,feature_request,The R&B playlist recommendations have been spot on lately. Really impressed.,4,2024-11-13
+Spotify Community,community.spotify.com,negative,discovery_problem,Spotify doesn't understand my Bollywood mood at all. Wrong songs at the wrong time.,1,2024-11-21
+Reddit,r/spotify,neutral,repetitive_listening,"Mixed experience with folk discovery. Sometimes great, sometimes completely off.",3,2024-08-24
+Reddit,r/spotify,positive,feature_request,Discover Weekly nailed it this week with amazing reggae music I'd never heard before.,5,2024-11-07
+Reddit,r/spotify,positive,feature_request,Daily Mix is perfect for my electronic taste. Great mix of familiar and new.,5,2024-12-18
+Spotify Community,community.spotify.com,positive,discovery_success,The Latin playlist recommendations have been spot on lately. Really impressed.,4,2025-02-05
+Reddit,r/spotify,negative,feature_request,The rock radio feature just plays the same 20 songs on loop. Completely pointless.,2,2024-08-13
+App Store,iOS App Store,positive,discovery_success,The R&B playlist recommendations have been spot on lately. Really impressed.,5,2025-03-19
+Google Play,Play Store,negative,algorithm_bubble,I find all my new classical music on Reels now. Spotify discovery is useless for my taste.,2,2024-06-23
+Reddit,r/spotify,negative,discovery_success,My metal recommendations never change. Stuck in the same bubble forever.,2,2024-08-30
+Google Play,Play Store,positive,mood_mismatch,Discover Weekly nailed it this week with amazing rock music I'd never heard before.,4,2025-05-09
+Google Play,Play Store,negative,discovery_problem,The hip-hop radio feature just plays the same 20 songs on loop. Completely pointless.,1,2024-07-23
+Google Play,Play Store,negative,discovery_success,I find all my new ambient music on Reels now. Spotify discovery is useless for my taste.,1,2024-10-19
+Spotify Community,community.spotify.com,negative,algorithm_bubble,I want to explore new Latin genres but Spotify keeps pulling me back to the same stuff.,2,2024-11-04
+Google Play,Play Store,neutral,repetitive_listening,Okay for electronic music but I wish there was more control over recommendations.,3,2024-12-22
+Reddit,r/spotify,neutral,algorithm_issue,Good app but indie discovery could be much better. Some frustrations but still useful.,3,2025-02-09
+Reddit,r/spotify,positive,discovery_problem,The AI DJ feature is brilliant for Bollywood — it actually surprises me sometimes.,4,2025-04-28
+Google Play,Play Store,positive,feature_request,Daily Mix is perfect for my metal taste. Great mix of familiar and new.,5,2025-01-16
+Google Play,Play Store,neutral,discovery_problem,Good app but classical discovery could be much better. Some frustrations but still useful.,3,2024-12-29
+Spotify Community,community.spotify.com,negative,feature_request,Spotify doesn't understand my Bollywood mood at all. Wrong songs at the wrong time.,2,2025-05-03
+App Store,iOS App Store,positive,discovery_problem,The indie playlist recommendations have been spot on lately. Really impressed.,5,2024-08-28
+Reddit,r/ListenToThis,negative,feature_request,The K-pop radio feature just plays the same 20 songs on loop. Completely pointless.,2,2024-11-13
+App Store,iOS App Store,negative,algorithm_issue,Spotify doesn't understand my pop mood at all. Wrong songs at the wrong time.,2,2024-09-12
+Reddit,r/ListenToThis,negative,algorithm_issue,The electronic radio feature just plays the same 20 songs on loop. Completely pointless.,1,2025-04-24
+Spotify Community,community.spotify.com,negative,algorithm_bubble,My K-pop recommendations never change. Stuck in the same bubble forever.,1,2024-12-29
+App Store,iOS App Store,negative,algorithm_bubble,The pop algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2025-05-23
+Reddit,r/ListenToThis,positive,mood_mismatch,The AI DJ feature is brilliant for K-pop — it actually surprises me sometimes.,4,2024-08-13
+App Store,iOS App Store,negative,feature_request,Spotify's recommendations have gotten worse. I keep hearing the same R&B songs no matter what I do.,2,2025-02-05
+Spotify Community,community.spotify.com,positive,repetitive_listening,Discover Weekly nailed it this week with amazing ambient music I'd never heard before.,4,2025-03-29
+Spotify Community,community.spotify.com,negative,algorithm_bubble,Can't discover new metal music on Spotify anymore. Everything feels recycled.,2,2024-06-29
+Reddit,r/spotify,negative,feature_request,Been Premium for classical years and discovery quality keeps declining. Very disappointed.,2,2025-03-07
+Reddit,r/spotify,neutral,mood_mismatch,Okay for K-pop music but I wish there was more control over recommendations.,3,2025-04-27
+Google Play,Play Store,negative,feature_request,Been Premium for indie years and discovery quality keeps declining. Very disappointed.,1,2025-01-07
+Reddit,r/spotify,neutral,mood_mismatch,Decent for metal but competitors are catching up on the discovery front.,3,2024-08-24
+Reddit,r/spotify,negative,algorithm_issue,Been Premium for rock years and discovery quality keeps declining. Very disappointed.,2,2024-08-04
+Reddit,r/ListenToThis,negative,discovery_success,Been Premium for pop years and discovery quality keeps declining. Very disappointed.,2,2025-02-23
+App Store,iOS App Store,negative,mood_mismatch,The Latin algorithm is completely broken. I've given up trying to find new music through Spotify.,2,2025-02-27
+Spotify Community,community.spotify.com,negative,discovery_success,Can't discover new reggae music on Spotify anymore. Everything feels recycled.,1,2024-10-20
+Google Play,Play Store,negative,discovery_problem,Spotify's recommendations have gotten worse. I keep hearing the same Bollywood songs no matter what I do.,2,2024-09-01
+Reddit,r/ListenToThis,positive,feature_request,The AI DJ feature is brilliant for R&B — it actually surprises me sometimes.,5,2025-03-10
+App Store,iOS App Store,positive,algorithm_issue,The hip-hop playlist recommendations have been spot on lately. Really impressed.,5,2025-01-13
+Google Play,Play Store,negative,feature_request,I find all my new indie music on Reels now. Spotify discovery is useless for my taste.,2,2024-10-24
+App Store,iOS App Store,negative,discovery_problem,I find all my new jazz music on Reels now. Spotify discovery is useless for my taste.,2,2024-10-31
+Spotify Community,community.spotify.com,negative,feature_request,Spotify doesn't understand my electronic mood at all. Wrong songs at the wrong time.,1,2025-03-08
+Spotify Community,community.spotify.com,negative,mood_mismatch,Spotify's recommendations have gotten worse. I keep hearing the same Latin songs no matter what I do.,2,2025-05-26
+Reddit,r/spotify,positive,mood_mismatch,The AI DJ feature is brilliant for K-pop — it actually surprises me sometimes.,4,2024-06-07
+Spotify Community,community.spotify.com,neutral,algorithm_bubble,"Mixed experience with rock discovery. Sometimes great, sometimes completely off.",3,2025-03-10
+App Store,iOS App Store,positive,discovery_problem,Daily Mix is perfect for my jazz taste. Great mix of familiar and new.,4,2024-07-21
+App Store,iOS App Store,positive,algorithm_issue,The AI DJ feature is brilliant for K-pop — it actually surprises me sometimes.,5,2024-08-06
+Reddit,r/ListenToThis,positive,repetitive_listening,Spotify introduced me to my new favorite ambient artist this week. This is why I pay for Premium.,5,2025-04-13
+Reddit,r/spotify,neutral,discovery_success,"Mixed experience with ambient discovery. Sometimes great, sometimes completely off.",3,2025-03-04
+App Store,iOS App Store,neutral,algorithm_issue,Decent for Bollywood but competitors are catching up on the discovery front.,3,2024-12-12
+Google Play,Play Store,neutral,algorithm_issue,Okay for folk music but I wish there was more control over recommendations.,3,2024-08-28
+Reddit,r/ListenToThis,positive,repetitive_listening,The AI DJ feature is brilliant for indie — it actually surprises me sometimes.,4,2025-03-11
+Google Play,Play Store,negative,feature_request,My electronic recommendations never change. Stuck in the same bubble forever.,2,2024-06-11
+Spotify Community,community.spotify.com,neutral,algorithm_issue,Decent for hip-hop but competitors are catching up on the discovery front.,3,2025-03-27
+Google Play,Play Store,neutral,algorithm_issue,Decent for electronic but competitors are catching up on the discovery front.,3,2024-10-04
+App Store,iOS App Store,neutral,repetitive_listening,Okay for jazz music but I wish there was more control over recommendations.,3,2025-05-18
+Reddit,r/spotify,negative,discovery_success,I want to explore new pop genres but Spotify keeps pulling me back to the same stuff.,1,2025-01-30
+Spotify Community,community.spotify.com,negative,algorithm_bubble,Discover Weekly used to be amazing for Bollywood. Now it's just the same artists I already know.,2,2025-01-03
+Google Play,Play Store,negative,algorithm_bubble,I find all my new Bollywood music on Reels now. Spotify discovery is useless for my taste.,1,2024-06-29
+Google Play,Play Store,neutral,mood_mismatch,"Mixed experience with R&B discovery. Sometimes great, sometimes completely off.",3,2024-12-09
+Reddit,r/spotify,negative,repetitive_listening,I find all my new ambient music on Reels now. Spotify discovery is useless for my taste.,2,2024-12-02
+Reddit,r/spotify,positive,algorithm_bubble,Daily Mix is perfect for my metal taste. Great mix of familiar and new.,4,2024-10-30
+App Store,iOS App Store,negative,discovery_success,I find all my new hip-hop music on Reels now. Spotify discovery is useless for my taste.,1,2025-01-02
+Google Play,Play Store,negative,mood_mismatch,I find all my new indie music on Reels now. Spotify discovery is useless for my taste.,2,2024-11-08
+Google Play,Play Store,neutral,discovery_success,Good app but Bollywood discovery could be much better. Some frustrations but still useful.,3,2024-11-02
+Reddit,r/spotify,negative,algorithm_bubble,The folk radio feature just plays the same 20 songs on loop. Completely pointless.,2,2024-08-19
+Google Play,Play Store,neutral,discovery_problem,Good app but jazz discovery could be much better. Some frustrations but still useful.,3,2025-02-26
+Reddit,r/ListenToThis,negative,discovery_problem,I find all my new indie music on Reels now. Spotify discovery is useless for my taste.,1,2024-10-16
+Spotify Community,community.spotify.com,negative,repetitive_listening,Been Premium for K-pop years and discovery quality keeps declining. Very disappointed.,2,2024-08-18
+App Store,iOS App Store,negative,algorithm_bubble,Can't discover new hip-hop music on Spotify anymore. Everything feels recycled.,2,2024-12-30
+Reddit,r/spotify,negative,algorithm_bubble,Spotify doesn't understand my pop mood at all. Wrong songs at the wrong time.,1,2024-12-21
+Reddit,r/ListenToThis,positive,algorithm_bubble,Discover Weekly nailed it this week with amazing metal music I'd never heard before.,5,2025-05-18
+App Store,iOS App Store,negative,algorithm_issue,I find all my new jazz music on Reels now. Spotify discovery is useless for my taste.,2,2024-11-06
+App Store,iOS App Store,negative,algorithm_bubble,My Bollywood recommendations never change. Stuck in the same bubble forever.,2,2025-03-24
+Reddit,r/spotify,neutral,discovery_problem,"Mixed experience with ambient discovery. Sometimes great, sometimes completely off.",3,2024-06-08
+App Store,iOS App Store,positive,feature_request,Spotify introduced me to my new favorite electronic artist this week. This is why I pay for Premium.,5,2024-12-28
+Reddit,r/spotify,negative,discovery_problem,The Bollywood algorithm is completely broken. I've given up trying to find new music through Spotify.,1,2025-01-04
+Reddit,r/ListenToThis,negative,discovery_success,I find all my new ambient music on Reels now. Spotify discovery is useless for my taste.,2,2024-07-04
+Reddit,r/ListenToThis,positive,discovery_problem,The R&B playlist recommendations have been spot on lately. Really impressed.,4,2024-07-12
+Spotify Community,community.spotify.com,negative,discovery_problem,Spotify doesn't understand my Bollywood mood at all. Wrong songs at the wrong time.,1,2025-03-26
+App Store,iOS App Store,neutral,mood_mismatch,Okay for K-pop music but I wish there was more control over recommendations.,3,2024-09-26
+Reddit,r/ListenToThis,negative,discovery_problem,Can't discover new reggae music on Spotify anymore. Everything feels recycled.,2,2025-03-20
+Spotify Community,community.spotify.com,negative,algorithm_bubble,I want to explore new hip-hop genres but Spotify keeps pulling me back to the same stuff.,1,2025-03-12

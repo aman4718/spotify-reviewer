@@ -1,9 +1,9 @@
 "use client"
-import React, { useEffect, useState } from 'react'
+import React, { useEffect, useState, useRef } from 'react'
 import { StatCard } from '@/components/dashboard/StatCard'
 import { ChartsPanel } from '@/components/dashboard/ChartsPanel'
 import { AIChat } from '@/components/dashboard/AIChat'
-import { fetchReviews, triggerAnalysis, fetchDashboardStats } from '@/lib/api'
+import { fetchReviews, triggerAnalysis, fetchDashboardStats, uploadCSV } from '@/lib/api'
 import { MessageSquare, Star, Zap, Upload } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 
@@ -52,6 +52,31 @@ export default function DashboardPage() {
     }
   }
 
+  const fileInputRef = useRef<HTMLInputElement>(null)
+  const [uploading, setUploading] = useState(false)
+
+  const handleFileUpload = async (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0]
+    if (!file) return
+
+    setUploading(true)
+    try {
+      const res = await uploadCSV(file)
+      if (res.status === 'success') {
+        alert(`Successfully uploaded ${res.count} reviews! Click "Run AI Analysis" to process them.`)
+        loadData()
+      } else {
+        alert(`Error uploading CSV: ${res.message}`)
+      }
+    } catch (error) {
+      console.error(error)
+      alert("Failed to upload CSV.")
+    } finally {
+      setUploading(false)
+      if (fileInputRef.current) fileInputRef.current.value = ''
+    }
+  }
+
   // Dynamic or Mock data for charts
   const sentimentData = dashboardStats?.sentiment_data || [
     { name: 'Positive', value: 400 },
@@ -81,7 +106,7 @@ export default function DashboardPage() {
             <p className="text-gray-400 mt-1">AI-powered insights for Spotify Product Managers.</p>
           </div>
           <div className="flex items-center space-x-4 mt-4 md:mt-0">
-            <SimpleButton onClick={handleAnalyze} disabled={analyzing} className="flex items-center gap-2 min-w-[160px] justify-center">
+            <SimpleButton onClick={handleAnalyze} disabled={analyzing || uploading} className="flex items-center gap-2 min-w-[160px] justify-center">
               {analyzing ? (
                 <div className="h-4 w-4 rounded-full border-2 border-black border-t-transparent animate-spin" />
               ) : (
@@ -89,8 +114,25 @@ export default function DashboardPage() {
               )}
               {analyzing ? "Analyzing..." : "Run AI Analysis"}
             </SimpleButton>
-            <SimpleButton className="bg-gray-800 text-white hover:bg-gray-700 flex items-center gap-2">
-              <Upload className="h-4 w-4" /> Upload CSV
+            
+            <input 
+              type="file" 
+              ref={fileInputRef} 
+              hidden 
+              accept=".csv" 
+              onChange={handleFileUpload} 
+            />
+            <SimpleButton 
+              onClick={() => fileInputRef.current?.click()} 
+              disabled={uploading || analyzing}
+              className="bg-gray-800 text-white hover:bg-gray-700 flex items-center gap-2"
+            >
+              {uploading ? (
+                <div className="h-4 w-4 rounded-full border-2 border-white border-t-transparent animate-spin" />
+              ) : (
+                <Upload className="h-4 w-4" />
+              )}
+              {uploading ? "Uploading..." : "Upload CSV"}
             </SimpleButton>
           </div>
         </div>

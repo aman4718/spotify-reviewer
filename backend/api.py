@@ -3,6 +3,9 @@ from fastapi.middleware.cors import CORSMiddleware
 import pandas as pd
 import io
 import os
+from dotenv import load_dotenv
+load_dotenv(override=True)
+
 from typing import List
 from models import Review, AIAnalysisResult, GlobalInsights
 from scrapers.google_play import scrape_google_play
@@ -47,10 +50,10 @@ async def upload_csv(file: UploadFile = File(...)):
                 Review(
                     platform=row.get("platform", "CSV"),
                     review_text=str(review_text),
-                    rating=int(row["rating"]) if pd.notnull(row.get("rating")) else None,
-                    username=str(row["username"]) if pd.notnull(row.get("username")) else None,
-                    country=str(row["country"]) if pd.notnull(row.get("country")) else None,
-                    review_date=pd.to_datetime(row["date"]) if pd.notnull(row.get("date")) else None,
+                    rating=int(row.get("rating")) if pd.notnull(row.get("rating")) else None,
+                    username=str(row.get("username")) if pd.notnull(row.get("username")) else None,
+                    country=str(row.get("country")) if pd.notnull(row.get("country")) else None,
+                    review_date=pd.to_datetime(row.get("date")) if pd.notnull(row.get("date")) else None,
                     review_url=None,
                     language="en"
                 )
