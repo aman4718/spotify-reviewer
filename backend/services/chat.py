@@ -46,4 +46,4 @@ def generate_chat_response(query: str, insights: dict, recent_analysis: list) ->
         return response.choices[0].message.content
     except Exception as e:
         print(f"Error in generate_chat_response (Groq): {e}")
-        return "I'm sorry, I encountered an error connecting to Groq. Please try again."
+        return f"I'm sorry, I encountered an error connecting to Groq: {str(e)}"
