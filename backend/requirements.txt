@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+google-genai
+python-dotenv
+pandas
+pydantic
+praw
+google-play-scraper
+python-multipart
+groq
